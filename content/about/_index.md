@@ -1,7 +1,7 @@
 +++
 date = "2019-07-01T06:00:00+01:00"
 title = "About"
-draft = true
+draft = false
 +++
 
 Questo sito fa da supporto ad un podcast: **Fotoradio**, _Un podcast che parla di fotografie_.
