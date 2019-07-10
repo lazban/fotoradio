@@ -13,7 +13,15 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Tracks WordPress Theme, Copyright 2017 Compete Themes
 Tracks is distributed under the terms of the GNU GPL
+
+
+
+
+CUSTOM CSS REAL
 */
+
+
+
 /*===== Variables =====*/
 /* Theme Colors */
 .site-title, .toggle-navigation i {
@@ -68,7 +76,7 @@ body {
   font-family: "raleway", sans-serif;
   line-height: 1.5;
   color: #4d4d4d;
-  background: #38312f;
+  background: #2c3f87;
   -webkit-font-smoothing: antialiased;
   word-wrap: break-word;
   -ms-word-wrap: break-word;
@@ -82,7 +90,7 @@ body {
 }
 
 .main {
-  background: #38312f;
+  background: #2c3f87;
   padding-bottom: 1.5em;
   margin: 0 auto;
 }
@@ -330,7 +338,7 @@ textarea {
 }
 
 input[type="submit"] {
-  background: #38312f;
+  background: #2c3f87;
   color: white;
   max-width: 22.2em;
   min-width: 11.1em;
@@ -466,7 +474,7 @@ a img {
 
 .site-title {
   letter-spacing: 0.06em;
-  opacity: 0.6;
+  opacity: 1;
   -webkit-transition: opacity 0.2s ease;
           transition: opacity 0.2s ease;
 }
@@ -476,17 +484,17 @@ a img {
   top: -99em;
 }
 .site-title a {
-  color: white;
+  color: #ffd983;
 }
 .site-title a:link, .site-title a:visited, .site-title a:hover, .site-title a:active, .site-title a:focus {
-  color: white;
+  color: #ffd983;
 }
 .site-title img {
   max-width: 5em;
   max-height: 1.5em;
 }
 .site-title:hover, .site-title:active, .site-title:focus {
-  opacity: 1;
+  opacity: 0.9;
 }
 
 .toggle-navigation {
@@ -1089,7 +1097,7 @@ a img {
 }
 
 .author-meta {
-  background: #38312f;
+  background: #2c3f87;
   color: white;
   padding: 1.5em;
   margin: 3em 0 0;
@@ -1202,7 +1210,7 @@ a img {
   .entry .featured-image:after {
     position: absolute;
     content: '';
-    background: #38312f;
+    background: #2c3f87;
     top: 0;
     bottom: 0;
     left: 0;
@@ -2432,7 +2440,7 @@ li.pingback:first-child {
   background: rgba(255, 255, 255, 0.2);
 }
 .background-image-active .site-footer {
-  background: #38312f;
+  background: #2c3f87;
 }
 
 /* background style textures */
@@ -2446,7 +2454,7 @@ li.pingback:first-child {
   border-color: transparent;
 }
 .background-texture-active .site-footer {
-  background: #38312f;
+  background: #2c3f87;
 }
 .background-texture-active .top-navigation {
   background: rgba(255, 255, 255, 0.2);
@@ -2658,7 +2666,7 @@ li.pingback:first-child {
 }
 
 .bbp-submit-wrapper button {
-  background: #38312f;
+  background: #2c3f87;
   color: white;
   max-width: 22.2em !important;
   min-width: 11.1em;

@@ -24,21 +24,23 @@
 
         {{ end }}
         <div class="entry-meta">
-          <span class="date">{{ .Date.Format "02 January" }}</span>	<span> / </span>
-
-          <span class="author">
-            <a href="{{ $writer.link | default .Site.Params.authorlink | absURL }}" title="Posts by {{ .Params.writer | default .Site.Params.author }}" rel="author">{{ .Params.writer | default .Site.Params.author }}</a>
-          </span>
-
 
           {{ range .Params.categories }}
           <span class="category">
-            <span> / </span>
 
             <a href="/categories/{{ . | urlize }}">{{ . }}</a>
           </span>
           {{ end }}
 
+          {{ if ( $writer.link ) }}
+          <span> / </span>
+          <span class="author">
+            <a href="{{ $writer.link | default .Site.Params.authorlink | absURL }}" title="Posts by {{ .Params.writer | default .Site.Params.author }}" rel="author">{{ .Params.writer | default .Site.Params.author }}</a>
+          </span>
+          {{ end }}
+
+          <span> / </span>
+          <span class="date">{{ .Date.Format "02 Jan" }} </span>
 
         </div>
         <div class='entry-header'>
