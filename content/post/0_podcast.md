@@ -17,9 +17,7 @@ Perché i podcast sono importanti? Perché la fotografia è importante? Cosa vuo
 
 A queste e altre domande, risponde l'episodio zero!
 
-<a class="spreaker-player" href="https://www.spreaker.com/show/lo-stato-dellunione" data-resource="show_id=2805246" data-theme="dark" data-autoplay="false" data-playlist="false" data-cover="https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/93c89d890bd5be66d2f818bdf2cdbe9b.jpg" data-width="100%" data-height="400px">Ascolta "Lo Stato dell&#039;Unione" su Spreaker.</a><script async src="https://widget.spreaker.com/widgets.js"></script>
-
-Potete ascoltare questo episodio direttamente nel browser cliccando qui sopra, oppure su Spreaker, iTunes, Google Podcast, Spotify.
+_L'episodio andrà in onda il 30 luglio 2019 alle ore 6.00. Qui troverai il link ma puoi anche seguire lo show direttamente su Spreaker, Spotify, Castbox e a breve su Apple iTunes e Google Podcast_
 
 Se volete lasciate un commento, andate nella sezione Contatti
 
@@ -32,7 +30,7 @@ Invece di una fotografia, in questa puntata parliamo di un dipinto. Si tratta di
 
 ## Citazioni
 
-Citiamo anche due brani tratti da:
+Nella puntata zero, citiamo anche due brani tratti da:
 
 - Luigi Zoja, *Vedere il vero e il falso*, Giulio Einaudi Editore, 2018. <a href="https://www.einaudi.it/catalogo-libri/problemi-contemporanei/vedere-il-vero-e-il-falso-luigi-zoja-9788806232788/">link</a> alla scheda del libro sul sito dell'editore.
 
