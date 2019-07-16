@@ -70,5 +70,7 @@ paginate = 5 #frontpage pagination
 # this will also be in author bio if there is no writer.
   [params.social]
   email         = ""
-  twitter       = "@fotoradio_info"
+  instagram     = "https://www.instagram.com/fotoradio/"
+  facebook      = "https://www.facebook.com/Fotoradio-485212768933498/"
+  twitter       = "https://twitter.com/fotoradio_info"
   rss           = true
