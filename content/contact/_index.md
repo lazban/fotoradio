@@ -3,12 +3,17 @@ date = "2019-07-01T06:00:00+01:00"
 title = "Contatti"
 +++
 
-I feedback su questo progetto sono molto importanti.
+I feedback su questo progetto sono molto importanti per noi (per capire cosa funziona e cosa no. Per questo è una _stagione zero_!!!).
 
-Puoi mandare un **whatsapp** testuale o vocale al **351.80 13 2 13** o anche un messaggio **telegram** allo stesso numero (o a <a href="https://t.me/fotoradio">@fotoradio</a>).
-Puoi scrivere una buona vecchia **email** a fotoradio.info at gmail.
-O usare questo form di contatto.
-O se mi conosci puoi fermarmi per strada e dirmi cosa ne pensi!
+Puoi mandare un **whatsapp** testuale o vocale al **351.80 13 2 13**;
+
+o anche un messaggio **telegram** a <a href="https://t.me/fotoradio">@fotoradio</a>;
+
+o puoi scrivere una buona vecchia **email** a fotoradio.info at gmail.com;
+
+o usare questo **form** di contatto (nessun dato verrà memorizzato o utilizzato se non per rispondere al messaggio);
+
+o se mi conosci puoi fermarmi per **strada** e dirmi cosa ne pensi!
 
 
 <form method="POST" action="https://formspree.io/fotoradio.info@gmail.com">
