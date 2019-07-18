@@ -12,7 +12,7 @@ Visto che non sempre è semplice parlare di fotografie senza vederle, su questo 
 **Fotoradio** è un progetto sperimentale. Non so se sarò in grado di svilupparlo, né se sarà di interesse per qualcuno. Intanto mi diverto con la stagione zero.
 Per iniziare, ho ridotto al minimo il costo e l'impatto di questo progetto.
 **Fotoradio.info** è perciò un sito statico, realizzato da me utilizzando Hugo e Github con il tema <a href="https://themes.gohugo.io/hugo-nederburg-theme/">Nederburg</a> di Goran Svensson (con piccole modifiche che ho fatto io) e hostato su Netlify.
-Il form di contatto è di Formspree.
+Il form di contatto è di Formspree. Il sistema di commenti è di Talkyard. Entrambe hanno soluzioni gratuite per gli usi amatoriali.
 
 Tutto a costo zero (a parte il costo del dominio, 12$ annui a Google Domains).
 
