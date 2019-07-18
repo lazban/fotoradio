@@ -51,6 +51,11 @@ paginate = 5 #frontpage pagination
      # - you're done. Happy mailing!
   email = ""
 
+  # talkyard
+
+talkyardServerUrl = "https://comments-for-fotoradio-info.talkyard.net"
+talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"
+
   # Nav links in the side bar
   [[menu.main]]
   name = "Home"
