@@ -37,3 +37,5 @@ Nella puntata zero, citiamo anche due brani tratti da:
 - Beppe Severgnini, *Quando è necessario mostrare la foto di un bimbo che muore* in Corriere della Sera, 10 aprile 2018 -
 <a href="https://www.corriere.it/esteri/18_aprile_10/siria-mostrare-foto-un-bimbo-che-muore-b4fd6eca-3c2f-11e8-b32d-1ffee392ceeb.shtml">link</a>
 alla versione online.
+
+_Grazie di aver ascoltato questo episodio. Alla prossima!_
