@@ -2,11 +2,10 @@
 showonlyimage = true
 draft = true
 image = "img/0x0/0x0.jpg"
-date = "2018-07-16T06:00:00+02:00"
+date = "2019-07-19T06:00:00+02:00"
 title = "0. podcast e fotografie"
 subtitle = "Episodio pilota per raccontare di cosa parlerà la stagione zero di Fotoradio."
 writer = ""
-categories = ["stagione 0"]
 weight = 1
 +++
 
