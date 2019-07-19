@@ -15,6 +15,8 @@ o usare questo **form** di contatto (nessun dato verrà memorizzato o utilizzato
 
 o se mi conosci puoi fermarmi per **strada** e dirmi cosa ne pensi!
 
+Se poi ti iscrivi al **Canale Telegram** (<a href="https://t.me/fotoradioinfo">@fotoradioinfo</a>) riceverai tutte le notifiche e le news sul podcast.
+
 
 <form method="POST" action="https://formspree.io/fotoradio.info@gmail.com">
   <b>Form di contatto</b><br>
