@@ -2,12 +2,14 @@
 showonlyimage = true
 draft = true
 image = "img/0x0/02_teaser_cover.jpg"
-date = "2019-07-18T06:00:00+02:00"
-title = "-1. Teaser: Se il compagno russa..."
-subtitle = "Teaser2 Fotoradio. Non riuscite a dormire e vi manca un podcast per cullarvi verso il riposo?"
+date = "2019-07-23T06:00:00+02:00"
+title = "-1) Teaser: Se il compagno russa..."
+description = "Teaser2 Fotoradio - un podcast che parla di fotografie"
 writer = ""
 weight = 1
 +++
+
+<script async src="https://widget.spreaker.com/widgets.js"></script>
 
 Acc... il vostro compagno russa e non riuscite a dormire?
 <!--more-->
@@ -15,9 +17,9 @@ Acc... il vostro compagno russa e non riuscite a dormire?
 E vi manca un podcast di fotografie che vi culli verso il meritato riposo?
 Se questo è il caso, il 30 luglio arriva Fotoradio!
 
-Questo è il secondo teaser di Fotoradio - un podcast che parla di fotografie.
+Questo è il secondo teaser di Fotoradio - un podcast che parla di fotografie ospitato su <a href="https://www.spreaker.com/episode/18597188">**Spreaker**</a>.
 
-<iframe src="https://widget.spreaker.com/player?episode_id=18546991&theme=light&playlist=false&playlist-continuous=false&autoplay=false&live-autoplay=false&chapters-image=true&episode_image_position=right&hide-logo=false&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=true" width="100%" height="200px" frameborder="0"></iframe>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/18597188" data-resource="episode_id=18597188" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "Teaser Stagione zero (Il tuo compagno russa)" su Spreaker.</a>
 
 La foto è di [Alexandra Gorn](https://unsplash.com/@alexagorn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) su [Unsplash](https://unsplash.com/search/photos/insomnia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
