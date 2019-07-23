@@ -19,7 +19,7 @@ Il dominio è preso da Google Domains facile da usare e nessun costo aggiuntivo 
 La **grafica** è autoprodotta utilizzando risorse free. Il font del logo è un font Google, <a href="https://fonts.google.com/specimen/Source+Sans+Pro">Source Sans Pro</a>, sviluppato da Paul D. Hunt. La copertina del podcast ha una foto presa da Unsplash (modificata nei colori), di <a href="https://unsplash.com/@jacksloop">Jack Sloop</a>.
 L'avatar di Madebyhumanrace (l'uomo preistorico) viene da <a href="https://www.flaticon.com">Flaticon</a>.
 
-Il **sound design** è ridotto al minimo e utilizza risorse di Freesound (vari suoni d'ambiente e strumenti musicali: i sax in apertura sono di <a href="https://freesound.org/people/stanrams/>Stanrams</a>).
+Il **sound design** è ridotto al minimo e utilizza risorse di Freesound (vari suoni d'ambiente e strumenti musicali: i sax in apertura sono di <a href="https://freesound.org/people/stanrams/">Stanrams</a>).
 Non ho resistito ad un po' di musica e quindi è arrivato Epidemic Sound che purtroppo costa (però ha un canone mensile che si può accendere e spengere quando si vuole quindi alla fine non è un grande investimento).
 
 Per il podcast la **strumentazione** si riduce ad un ATR2100 di AudioTechnica preso usato sul marketplace di Amazon. Neewer ha un braccio di supporto per il microfono (che include anche il cavo xls, l'antipop e un ragno) che <a href="https://www.amazon.it/gp/product/B01HTI2MRO/ref=ppx_yo_dt_b_asin_title_o03_s01?ie=UTF8&psc=1">costa poco</a>.
