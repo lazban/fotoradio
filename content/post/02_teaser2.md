@@ -1,6 +1,6 @@
 +++
 showonlyimage = true
-draft = true
+draft = false
 image = "img/0x0/02_teaser_cover.jpg"
 date = "2019-07-23T06:00:00+02:00"
 title = "-1) Teaser: Se il compagno russa..."
