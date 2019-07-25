@@ -1,38 +1,46 @@
 +++
 showonlyimage = true
 draft = true
-image = "img/0x0/0x0.jpg"
+image = "img/0x1/gideon_cover.jpg"
 date = "2019-07-19T06:00:00+02:00"
-title = "0. podcast e fotografie"
-subtitle = "Episodio pilota per raccontare di cosa parlerà la stagione zero di Fotoradio."
+title = "1. Fotografia e Climate Change (Gideon Mendel)"
+subtitle = "I submerged portrait di Gideon Mendel ci raccontano i danni dei cambiamenti climatici "
 writer = ""
 weight = 1
 +++
 
-Episodio pilota per raccontare di cosa parlerà la stagione zero di Fotoradio.
+Prima puntata di Fotoradio dedicata ai ritratti di Gideon Mendel e alle connessioni con il cambiamento climatico
 <!--more-->
 
-Perché i podcast sono importanti? Perché la fotografia è importante? Cosa vuol dire fare un podcast _che parla di fotografie_?
+Testo introduttivo
 
-A queste e altre domande, risponde l'episodio zero!
-
-_L'episodio andrà in onda il 30 luglio 2019 alle ore 6.00. Qui troverai il link ma puoi anche seguire lo show direttamente su Spreaker, Spotify, Castbox, Apple iTunes e Google Podcast_
+_L'episodio andrà in onda il 6 agosto 2019 alle ore 6.00. Qui troverai il link ma puoi anche seguire lo show direttamente su Spreaker, Spotify, Castbox, Apple iTunes e Google Podcast_
 <!--
 Questo è l'episodio zero di Fotoradio - un podcast che parla di fotografie. Lo puoi ascoltare su <a href="https://www.spreaker.com/user/11400220/def-teaser-0x0">**Spreaker**</a>, oppure su <a href="https://podcasts.apple.com/it/podcast/fotoradio-un-podcast-sulle-fotografie/id1473090985">**Apple iTunes**</a>, <a href="https://open.spotify.com/show/3dzBBFOJD2gaz2pRdhlzYh">**Spotify**</a>, <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMzYwNzI4OS9lcGlzb2Rlcy9mZWVk">**Google Podcast**<a href="https://castbox.fm/channel/Fotoradio-un-podcast-sulle-fotografie-id2203635?country=it">, **Castbox**</a> e <a href="https://soundcloud.com/user-153455998">**Soundcloud**</a>.
 -->
 
-Se volete lasciate un commento, andate nella sezione Contatti
+Se volete lasciare un commento andate nella sezione Contatti
 
 
 ## Foto dell'episodio
 
-Invece di una fotografia, in questa puntata parliamo di un dipinto. Si tratta di _Niagara Falls, From the American Side_,  di Edwin Church, del 1867. Olio su tela, 257 cm × 227 cm, conservato alla Scottish National Gallery di Edinburgh in Scozia.
+{{< figure src="/img/0x1/gideon01.jpg" >}}
 
-{{< figure src="/img/0x0/0x0_foto.jpg" >}}
+{{< figure src="/img/0x1/gideon02.jpg" >}}
+
+{{< figure src="/img/0x1/gideon03.jpg" >}}
+
+{{< figure src="/img/0x1/gideon04.jpg" >}}
+
+{{< figure src="/img/0x1/gideon05.jpg" >}}
+
+{{< vm 148174916 >}}
+
+
 
 ## Citazioni
 
-Nella puntata zero, citiamo anche due brani tratti da:
+Anche in questo episodio, citiamo alcuni brani tratti da:
 
 - Luigi Zoja, *Vedere il vero e il falso*, Giulio Einaudi Editore, 2018. <a href="https://www.einaudi.it/catalogo-libri/problemi-contemporanei/vedere-il-vero-e-il-falso-luigi-zoja-9788806232788/">link</a> alla scheda del libro sul sito dell'editore.
 
@@ -42,12 +50,10 @@ alla versione online.
 
 _Grazie di aver ascoltato questo episodio. Alla prossima!_
 
+
 ### Errata corrige
 
-Sigh. Già nella prima puntata ci son cose da correggere! Seguendo le indicazioni di colleghi podcaster non voglio ripetere la registrazione audio né fare troppo editing.
-Quando mi accorgerò di errori, li scriverò qui (e se vi accorgete di errori fatemelo sapere!).
 
-Il dipinto di Church di cui si parla nell'episodio è di 2,5 metri in alterzza e 2 in larghezza (non 2,5 come dico nella puntata).
 
 ### Fair use
 
