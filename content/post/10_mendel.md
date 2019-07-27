@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = true
 image = "img/0x1/gideon_cover.jpg"
-date = "2019-07-19T06:00:00+02:00"
+date = "2019-07-27T06:00:00+02:00"
 title = "1. Fotografia e Climate Change (Gideon Mendel)"
 subtitle = "I _submerged portraits_ di Gideon Mendel ci raccontano i danni dei cambiamenti climatici "
 writer = ""

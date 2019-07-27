@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = true
 image = "img/0x0/0x0.jpg"
-date = "2019-07-19T06:00:00+02:00"
+date = "2019-07-26T06:00:00+02:00"
 title = "0. podcast e fotografie"
 subtitle = "Episodio pilota per raccontare di cosa parlerà la stagione zero di Fotoradio."
 writer = ""
@@ -12,13 +12,20 @@ weight = 1
 Episodio pilota per raccontare di cosa parlerà la stagione zero di Fotoradio.
 <!--more-->
 
-Perché i podcast sono importanti? Perché la fotografia è importante? Cosa vuol dire fare un podcast _che parla di fotografie_?
+Perché i podcast sono importanti? Perché la fotografia è importante? Cosa vuol dire fare un podcast che parla di _fotografie_?
 
-A queste e altre domande, risponde l'episodio zero!
+A queste domande, risponde l'episodio zero.
 
-_L'episodio andrà in onda il 30 luglio 2019 alle ore 6.00. Qui troverai il link ma puoi anche seguire lo show direttamente su Spreaker, Spotify, Castbox, Apple iTunes e Google Podcast_
+_L'episodio andrà in onda il 30 luglio 2019 alle ore 6.00 e qui troverai il link per l'ascolto diretto. Puoi seguire la serie su **Spreaker**, **Spotify**, **Castbox**, **Apple iTunes** e **Google Podcast**_
+
 <!--
-Questo è l'episodio zero di Fotoradio - un podcast che parla di fotografie. Lo puoi ascoltare su <a href="https://www.spreaker.com/user/11400220/def-teaser-0x0">**Spreaker**</a>, oppure su <a href="https://podcasts.apple.com/it/podcast/fotoradio-un-podcast-sulle-fotografie/id1473090985">**Apple iTunes**</a>, <a href="https://open.spotify.com/show/3dzBBFOJD2gaz2pRdhlzYh">**Spotify**</a>, <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMzYwNzI4OS9lcGlzb2Rlcy9mZWVk">**Google Podcast**<a href="https://castbox.fm/channel/Fotoradio-un-podcast-sulle-fotografie-id2203635?country=it">, **Castbox**</a> e <a href="https://soundcloud.com/user-153455998">**Soundcloud**</a>.
+Questo è l'episodio zero di Fotoradio - un podcast che parla di fotografie.
+Lo puoi ascoltare su <a href="https://www.spreaker.com/user/11400220/def-teaser-0x0">**Spreaker**</a>
+, oppure su <a href="https://podcasts.apple.com/it/podcast/fotoradio-un-podcast-sulle-fotografie/id1473090985">**Apple iTunes**</a>
+, <a href="https://open.spotify.com/show/3dzBBFOJD2gaz2pRdhlzYh">**Spotify**</a>
+, <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMzYwNzI4OS9lcGlzb2Rlcy9mZWVk">**Google Podcast**
+, <a href="https://castbox.fm/channel/Fotoradio-un-podcast-sulle-fotografie-id2203635?country=it">**Castbox**</a>
+e <a href="https://soundcloud.com/user-153455998">**Soundcloud**</a>.
 -->
 
 Se volete lasciate un commento, andate nella sezione Contatti
@@ -42,12 +49,10 @@ alla versione online.
 
 _Grazie di aver ascoltato questo episodio. Alla prossima!_
 
+<!--
 ### Errata corrige
+-->
 
-Sigh. Già nella prima puntata ci son cose da correggere! Seguendo le indicazioni di colleghi podcaster non voglio ripetere la registrazione audio né fare troppo editing.
-Quando mi accorgerò di errori, li scriverò qui (e se vi accorgete di errori fatemelo sapere!).
-
-Il dipinto di Church di cui si parla nell'episodio è di 2,5 metri in alterzza e 2 in larghezza (non 2,5 come dico nella puntata).
 
 ### Fair use
 
