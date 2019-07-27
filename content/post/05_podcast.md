@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = true
 image = "img/0x0/0x0.jpg"
-date = "2019-07-19T06:00:00+02:00"
+date = "2019-07-26T06:00:00+02:00"
 title = "0. podcast e fotografie"
 subtitle = "Episodio pilota per raccontare di cosa parlerà la stagione zero di Fotoradio."
 writer = ""
@@ -42,12 +42,10 @@ alla versione online.
 
 _Grazie di aver ascoltato questo episodio. Alla prossima!_
 
+<!--
 ### Errata corrige
+-->
 
-Sigh. Già nella prima puntata ci son cose da correggere! Seguendo le indicazioni di colleghi podcaster non voglio ripetere la registrazione audio né fare troppo editing.
-Quando mi accorgerò di errori, li scriverò qui (e se vi accorgete di errori fatemelo sapere!).
-
-Il dipinto di Church di cui si parla nell'episodio è di 2,5 metri in alterzza e 2 in larghezza (non 2,5 come dico nella puntata).
 
 ### Fair use
 
