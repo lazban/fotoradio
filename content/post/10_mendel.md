@@ -4,7 +4,7 @@ draft = true
 image = "img/0x1/gideon_cover.jpg"
 date = "2019-07-19T06:00:00+02:00"
 title = "1. Fotografia e Climate Change (Gideon Mendel)"
-subtitle = "I submerged portrait di Gideon Mendel ci raccontano i danni dei cambiamenti climatici "
+subtitle = "I _submerged portraits_ di Gideon Mendel ci raccontano i danni dei cambiamenti climatici "
 writer = ""
 weight = 1
 +++
@@ -50,8 +50,10 @@ alla versione online.
 
 _Grazie di aver ascoltato questo episodio. Alla prossima!_
 
-
+<!--
 ### Errata corrige
+
+-->
 
 
 
