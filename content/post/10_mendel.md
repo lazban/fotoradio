@@ -32,7 +32,16 @@ Se volete lasciare un commento andate nella sezione Contatti
 
 {{< figure src="/img/0x1/gideon04.jpg" >}}
 
+
+## Bonus Tracks
+
+Due bonus track per questo primo episodio.
+
+Un'immagine di Gideon Mendel mentre scatta i suoi _submerged portraits_ con la sua Rolleiflex (presa dal National Geographic che per primo pubblicò parte del lavoro nel numero XXX del 2005)
+
 {{< figure src="/img/0x1/gideon05.jpg" >}}
+
+Un video, realizzato al seguito del fotografo durante i viaggi per documentare le inondazioni in molte parti del mondo.
 
 {{< vm 148174916 >}}
 
