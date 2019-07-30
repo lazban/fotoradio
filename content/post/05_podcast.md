@@ -12,7 +12,7 @@ weight = 1
 <script async src="https://widget.spreaker.com/widgets.js"></script>
 
 Episodio pilota per raccontare di cosa parlerà la stagione zero di Fotoradio che parte martedi 6 agosto 2019.
-<!--more-->
+<!-- more -->
 
 Perché i podcast sono importanti? Perché la fotografia è importante? Cosa significa fare un podcast che parla di _fotografie_?
 
