@@ -22,7 +22,7 @@ Questo è l'episodio zero di Fotoradio - un podcast che parla di fotografie. Lo 
 Se volete lasciare un commento andate nella sezione Contatti
 
 
-## Foto dell'episodio
+### Foto dell'episodio
 
 {{< figure src="/img/0x1/gideon01.jpg" >}}
 
@@ -33,7 +33,7 @@ Se volete lasciare un commento andate nella sezione Contatti
 {{< figure src="/img/0x1/gideon04.jpg" >}}
 
 
-## Bonus Tracks
+### Bonus Tracks
 
 Due bonus track per questo primo episodio.
 
@@ -47,7 +47,7 @@ Un video, realizzato al seguito del fotografo durante i viaggi per documentare l
 
 
 
-## Citazioni
+### Citazioni
 
 Anche in questo episodio, citiamo alcuni brani tratti da:
 
@@ -63,6 +63,11 @@ _Grazie di aver ascoltato questo episodio. Alla prossima!_
 ### Errata corrige
 
 -->
+
+### link
+
+[Gideon Mendel a Cortona On The Move](https://www.cortonaonthemove.com/exhibit/gideon-mendel/) - Gideon Mendel è a Cortona On The Move 2019 fino a settembre.
+
 
 
 
