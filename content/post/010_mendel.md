@@ -69,6 +69,9 @@ I brani citati vengono da:
 
 - Jaap Tielbeke, su De Groene Amsterdammer ripreso da Internazionale 1313 del 28 giugno 2019: <a target="blank" href="https://www.internazionale.it/">Ribellarsi all'estinzione</a>
 
+- lo spot tv di Save the Children è questo:
+
+{{< yt SBeo4gKzhKc >}}
 
 <!--
 
