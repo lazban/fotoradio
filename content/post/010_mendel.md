@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = false
 image = "img/0x1/gideon_cover.jpg"
-date = "2019-08-04T06:00:00+02:00"
+date = "2019-08-05T06:00:00+02:00"
 title = "1. Fotografia e Climate Change (Gideon Mendel)"
 slug = "climate_change_mendel"
 description = "Attraverso la fotografia di Gideon Mendel (i suoi _Submerged Portraits_) Fotoradio racconta i danni del climate change"
