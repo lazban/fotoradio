@@ -4,15 +4,14 @@ draft = false
 image = "img/0x0/0x0.jpg"
 date = "2019-07-29T06:00:00+02:00"
 title = "0. podcast e fotografie"
-subtitle = "Episodio pilota per raccontare di cosa parlerà la stagione zero di Fotoradio."
+slug = "podcast_fotografie"
+description = "Episodio pilota per raccontare di cosa parlerà la stagione zero di Fotoradio."
 writer = ""
 weight = 1
 +++
 
-<script async src="https://widget.spreaker.com/widgets.js"></script>
-
 Episodio pilota per raccontare di cosa parlerà la stagione zero di Fotoradio che parte martedi 6 agosto 2019.
-<!-- more -->
+<!--more-->
 
 Perché i podcast sono importanti? Perché la fotografia è importante? Cosa significa fare un podcast che parla di _fotografie_?
 

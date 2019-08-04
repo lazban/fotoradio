@@ -4,12 +4,11 @@ draft = false
 image = "img/0x0/02_teaser_cover.jpg"
 date = "2019-07-23T06:00:00+02:00"
 title = "-1) Teaser: Se il compagno russa..."
+slug = "teaser-russa"
 description = "Teaser2 Fotoradio - un podcast che parla di fotografie"
 writer = ""
 weight = 1
 +++
-
-<script async src="https://widget.spreaker.com/widgets.js"></script>
 
 Acc... il vostro compagno russa e non riuscite a dormire?
 <!--more-->

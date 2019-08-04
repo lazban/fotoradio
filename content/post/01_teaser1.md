@@ -4,12 +4,11 @@ draft = false
 image = "img/0x0/01_teaser_cover.jpg"
 date = "2019-07-16T06:00:00+02:00"
 title = "-2) Teaser: Spersi nel sud della Francia..."
+slug = "teaser-francia"
 description = "Teaser1 Fotoradio - un podcast che parla di fotografie"
 writer = ""
 weight = 1
 +++
-
-<script async src="https://widget.spreaker.com/widgets.js"></script>
 
 In una assolata giornata di luglio, vi manca un podcast da spararvi in cuffietta?
 <!--more-->

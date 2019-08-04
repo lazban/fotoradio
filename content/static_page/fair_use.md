@@ -3,7 +3,10 @@ date = "2019-01-01T06:00:00+02:00"
 title = "Fair Use"
 +++
 
-In questo sito si segue il concetto di "fair use" sviluppato dalla US copyright law, che autorizza l'utilizzo di materiale protetto su base limitata e per specifici utilizzi, senza il permesso del titolare dei diritti.
+Su _Fotoradio - Un podcast che parla di fotografie_ si segue il concetto di "fair use" sviluppato dalla US copyright law,
+<!--more-->
+
+che autorizza l'utilizzo di materiale protetto su base limitata e per specifici utilizzi, senza il permesso del titolare dei diritti.
 Nella sostanza è un buon modo per utilizzare materiale protetto a certe condizioni.
 
 Le condizioni sono:

@@ -9,6 +9,9 @@ googleAnalytics = "UA-41139230-15"
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 
+[permalinks]
+  post = "/:year/:month/:slug/"
+
 [privacy]
   # Google Analytics privacy settings - https://gohugo.io/about/hugo-and-gdpr/index.html#googleanalytics
   [privacy.googleAnalytics]
