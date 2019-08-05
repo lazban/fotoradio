@@ -13,7 +13,7 @@ weight = 1
 Prima puntata e iniziamo a parlare di fotografie con i ritratti di Gideon Mendel e le connessioni con il cambiamento climatico
 <!--more-->
 
-Gideon Mendel nel 2015 sul _National Geographic_ (ed anche ad Arles nel 2017 e ora a Cortona nel 2019), ha presentato i suoi _Submerged Portraits_, ritratti di persone nei 5 continenti in contesti alluvionati.
+Gideon Mendel nel 2015 sul _National Geographic_ (ed anche ad Arles nel 2017 e ora a Cortona nel 2019), ha presentato i suoi _Submerged Portraits_, ritratti di persone nei 5 continenti in contesti alluvionati e sconvolti dai cambiamenti climatici.
 
 Ne parliamo nella prima puntata di **_Fotoradio - Un podcast che parla di fotografie_**
 
