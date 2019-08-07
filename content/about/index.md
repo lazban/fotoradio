@@ -4,6 +4,8 @@ title = "About"
 description = "Cos'è Fotoradio? Come è stato fatto? Perché? Da chi?"
 +++
 
+_english language visitors, please jump to the bottom of the page_
+
 **Fotoradio**, _Un podcast che parla di fotografie_ è un podcast - appunto - che non parla di _fotografia_ (cioè macchine fotografiche, obiettivi, tecniche, fotoritocco...) ma piuttosto di _fotografie_ (ovvero di cosa ci dicono le fotografie, delle emozioni che fanno uscire, dei pensieri che stimolano...).
 <!--more-->
 
@@ -14,6 +16,7 @@ Visto che non sempre è semplice parlare di fotografie senza vederle, su questo 
 **Fotoradio è un progetto sperimentale.** E' tutto da capire come verrà e se sarà di interesse per qualcuno. Intanto mi diverto con la stagione zero.
 Per iniziare, ho ridotto al minimo l'impatto.
 
+- - -
 
 ### Impatto al minimo
 
@@ -35,6 +38,7 @@ L'**hosting** del podcast è fatto su <a target="blank" href="https://www.spreak
 
 Sui questo sito nessun dato personale viene raccolto (se non quelli che inserite nel form contatti ma con il solo scopo di rispondere e nient'altro). Sono attivi Google Analytics e le statistiche di Spreaker sul podcast per analizzare i dati di traffico e le informazioni aggregate del caso.
 
+- - -
 
 ### Ringraziamenti
 
@@ -43,3 +47,13 @@ Infine, ci sono **ringraziamenti** da fare a Andrea Ciraolo che con il suo <a ta
 E' invece del tutto inconsapevole del suo contributo <a target="blank" href="https://www.spreaker.com/show/il-mordente">Riccardo Palombo</a>. Mi è piaciuto molto il suo percorso da recensore di tecnologia su Youtube a podcaster intimo, ma anche smanettone. E' stato lui a citare Passione Podcast in un episodio de Il Mordente e da lì è partito tutto. Inoltre devo a lui, che ne è sempre inconsapevole, la passione sorta per i siti statici e lo sforzarsi di tenere un basso impatto, anche nei lavori su internet.
 
 Infine, ci sono io, **Alessandro**, che ho difficoltà a raccontarmi. Per ora, dico solo che non sono un fotografo, un semiologo o un esperto di questioni sociali. Eppure questo podcast parlerà quasi soltanto di fotografia, semiologia e questioni sociali. Mmmm... mi sa che non ho fatto una gran presentazione ;-)
+
+- - -
+
+### english language visitors?
+
+Fotoradio is an italian language podcast dedicated to photographs.
+
+In this website we show pictures and credits about the photographs object of the show. We refer to the Fair Use as stated in the Copyright Act. Please check it out <a href="https://fotoradio.info/static_page/fair_use/">this page</a> for more information.
+
+If you like to get in touch, please use the form at the bottom of <a href="https://fotoradio.info/contact/">this page</a>.
