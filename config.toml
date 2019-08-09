@@ -80,6 +80,11 @@ talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"
   url = "https://tinyletter.com/fotoradio"
   weight = 4
 
+#  [[menu.main]]
+#  name = "links"
+#  url = "/static_page/links/"
+
+
 # this will also be in author bio if there is no writer.
   [params.social]
   email         = ""

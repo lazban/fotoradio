@@ -1,21 +1,21 @@
 +++
 showonlyimage = true
-draft = false
-image = "img/0x1/climate_cover.jpg"
-date = "2019-08-05T06:00:00+02:00"
-title = "Fotografia e Climate Change (Gideon Mendel)"
-slug = "climate_change_mendel"
-description = "Attraverso la fotografia di Gideon Mendel (i suoi _Submerged Portraits_) Fotoradio racconta i danni del climate change"
+draft = true
+image = "img/0x2/industria_cover.jpg"
+date = "2019-08-06T06:00:00+02:00"
+title = "La città e l'industria (e l'ossessione) nelle foto di W. Eugene Smith"
+slug = "pittsburgh_smith"
+description = "Analisi di alcuni scatti fatti da W. Eugene Smith nel suo monumentale progetto su Pittsburgh"
 writer = ""
 weight = 1
 +++
 
-Prima puntata di Fotoradio dove iniziamo a parlare di fotografie con i ritratti di Gideon Mendel e le connessioni con il cambiamento climatico
+Nuova puntata di Fotoradio dedicata a W. Eugene Smith e ai suoi scatti su Pittsburgh: la città, l'industria e l'ossessione
 <!--more-->
 
-Gideon Mendel nel 2015 sul _National Geographic_ (ed anche ad Arles nel 2017 e ora a Cortona nel 2019), ha presentato i suoi _Submerged Portraits_, ritratti di persone nei 5 continenti in contesti alluvionati e sconvolti dai cambiamenti climatici.
+intro dettagliata
 
-Ne parliamo nella prima puntata di **_Fotoradio - Un podcast che parla di fotografie_**
+Ne parliamo in questa puntata di **_Fotoradio - Un podcast che parla di fotografie_**
 
 <a class="spreaker-player" href="https://www.spreaker.com/episode/18719581" data-resource="episode_id=18719581" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "Fotografia e Climate Change (Gideon Mendel)" su Spreaker.</a>
 
@@ -31,16 +31,6 @@ Nell'episodio parliamo di tre ritratti di Mendel che son questi:
 
 {{< figure src="/img/0x1/gideon01.jpg" caption="⬆︎ Francisca Chagas dos Santos, Rio Branco, Brasile, Marzo 2015 <br>* ">}}
 
-{{< figure src="/img/0x1/gideon02.jpg" caption="⬆︎ Ahmed, Khairpur Nathan Shah, Pakistan, Settembre 2010 <br>* ">}}
-
-{{< figure src="/img/0x1/gideon03.jpg" caption="⬆︎ Jeff e Tracey Waters, Staines-upon-Thames, Inghilterra, Febbraio 2014 <br>* ">}}
-
-Gli scatti qui sopra fanno parte della serie _Submerged Portraits_ visionabile sul sito di Gideon Mendel seguendo <a target="blank" href="http://gideonmendel.com/submerged-portraits/">link</a>.
-
-{{< figure src="/img/0x1/gideon04.jpg" caption="⬆︎ Dorika Gabriel e suo figlio Joseph, Mwanza, Tanzania, Luglio 1997 <br>* ">}}
-
-Questo scatto fa invece parte della serie _A Broken Landscape_ che si può vedere sul sito di Gideon Mendel a <a target="blank" href="http://gideonmendel.com/a-broken-landscape/">questo link</a>.
-
 Tutte le foto sono © Gideon Mendel / guarda la nostra nota sul <a target="blank" href="/static_page/fair_use/">Fair Use</a>
 
 _Grazie di aver ascoltato questo episodio. Alla prossima!_
@@ -51,7 +41,7 @@ _Grazie di aver ascoltato questo episodio. Alla prossima!_
 
 Due bonus track per questo primo episodio.
 
-Un'immagine di Gideon Mendel mentre scatta i suoi _submerged portraits_ con la sua Rolleiflex
+Un'immagine di Gideon Mendel mentre scatta i suoi _submerged portraits_ con la sua Rolleiflex (dal _National Geographic_ che per primo pubblicò parte del lavoro nel numero di Febbraio 2015)
 
 {{< figure src="/img/0x1/gideon05.jpg" caption="⬆︎ Gideon Mendel works in Srinigar, India. Photograph by Gowhar Fazili (come riportato sul National Geographic online Feb 2015 - link nella sezione link)" >}}
 
@@ -66,14 +56,6 @@ I brani citati vengono da:
 
 - Madeleine Somerville, sul The Guardian del 1 luglio 2019: <a target="blank" href="https://www.theguardian.com/lifeandstyle/2019/jun/30/climate-crisis-food-global-heating-emergency">How the climate crisis will change your plat in 2050</a>
 
-- Marco Aime, su Volerelaluna.it il 27 luglio 2018: <a target="blank" href="https://volerelaluna.it/in-primo-piano/2018/07/27/confini-e-frontiere/">Confini e frontiere</a>
-
-- Jaap Tielbeke, su De Groene Amsterdammer ripreso da Internazionale 1313 del 28 giugno 2019: <a target="blank" href="https://www.internazionale.it/">Ribellarsi all'estinzione</a>
-
-- lo spot tv di Save the Children è questo:
-
-{{< yt SBeo4gKzhKc >}}
-
 <!--
 
 - - -
@@ -87,7 +69,6 @@ I brani citati vengono da:
 
 - [Gideon Mendel a Cortona On The Move](https://www.cortonaonthemove.com/exhibit/gideon-mendel/) - Gideon Mendel è a Cortona On The Move 2019 fino a settembre.
 
-- Articolo <a target="blank" href="https://www.nationalgeographic.com/photography/proof/2015/01/15/gideon-mendels-portraits-from-a-drowning-world/">National Geographic online Feb 2015</a>
 
 
 - - -
