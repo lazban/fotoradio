@@ -88,9 +88,9 @@ Per la musica, in ordine di apparizione:
 
 Tutte arrivano da <a href="https://www.epidemicsound.com/">Epidemic Sound</a>
 
-Per i suoni vedi cosa dico in <a href="/about/">About</a>.
+Per i suoni nella pagina <a href="/about/">About</a> ci sono le fonti.
 
-Photo cover by <a target="blank" href="https://unsplash.com/@chriswebdog">Chris Gallagher</a> on Unsplash
+Photo by <a target="blank" href="https://unsplash.com/@worldsbetweenlines">Patrick Hendry</a> on Unsplash
 
 - - -
 ### Fair use

@@ -64,7 +64,7 @@ Un video, realizzato al seguito del fotografo durante i viaggi per documentare l
 
 I brani citati vengono da:
 
-- Madeleine Somerville, sul The Guardian del 1 luglio 2019: <a target="blank" href="https://www.theguardian.com/lifeandstyle/2019/jun/30/climate-crisis-food-global-heating-emergency">How the climate crisis will change your plat in 2050</a>
+- Madeleine Somerville, sul The Guardian del 1 luglio 2019: <a target="blank" href="https://www.theguardian.com/lifeandstyle/2019/jun/30/climate-crisis-food-global-heating-emergency">How the climate crisis will change your plate in 2050</a>
 
 - Marco Aime, su Volerelaluna.it il 27 luglio 2018: <a target="blank" href="https://volerelaluna.it/in-primo-piano/2018/07/27/confini-e-frontiere/">Confini e frontiere</a>
 
