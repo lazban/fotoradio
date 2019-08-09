@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/0x1/gideon_cover.jpg"
+image = "img/0x1/climate_cover.jpg"
 date = "2019-08-05T06:00:00+02:00"
 title = "1. Fotografia e Climate Change (Gideon Mendel)"
 slug = "climate_change_mendel"
@@ -41,6 +41,7 @@ Gli scatti qui sopra fanno parte della serie _Submerged Portraits_ visionabile s
 
 Questo scatto fa invece parte della serie _A Broken Landscape_ che si può vedere sul sito di Gideon Mendel a <a target="blank" href="http://gideonmendel.com/a-broken-landscape/">questo link</a>.
 
+Tutte le foto sono © Gideon Mendel / guarda la nostra nota sul <a target="blank" href="/static_page/fair_use/">Fair Use</a>
 
 _Grazie di aver ascoltato questo episodio. Alla prossima!_
 
@@ -52,7 +53,7 @@ Due bonus track per questo primo episodio.
 
 Un'immagine di Gideon Mendel mentre scatta i suoi _submerged portraits_ con la sua Rolleiflex (dal _National Geographic_ che per primo pubblicò parte del lavoro nel numero di Febbraio 2015)
 
-{{< figure src="/img/0x1/gideon05.jpg" >}}
+{{< figure src="/img/0x1/gideon05.jpg" caption="⬆︎ Gideon Mendel works in Srinigar, India. Photograph by Gowhar Fazili (come riportato sul National Geographic online Feb 2015 - link nella sezione link)" >}}
 
 Un video, realizzato al seguito del fotografo durante i viaggi per documentare le inondazioni in molte parti del mondo.
 
@@ -84,7 +85,9 @@ I brani citati vengono da:
 - - -
 ### altri link
 
-[Gideon Mendel a Cortona On The Move](https://www.cortonaonthemove.com/exhibit/gideon-mendel/) - Gideon Mendel è a Cortona On The Move 2019 fino a settembre.
+- [Gideon Mendel a Cortona On The Move](https://www.cortonaonthemove.com/exhibit/gideon-mendel/) - Gideon Mendel è a Cortona On The Move 2019 fino a settembre.
+
+- Articolo <a target="blank" href="https://www.nationalgeographic.com/photography/proof/2015/01/15/gideon-mendels-portraits-from-a-drowning-world/">National Geographic online Feb 2015</a>
 
 
 - - -
@@ -106,6 +109,7 @@ Tutte arrivano da <a href="https://www.epidemicsound.com/">Epidemic Sound</a>
 
 Per i suoni vedi cosa dico in <a href="/about/">About</a>.
 
+Photo cover by <a target="blank" href="https://unsplash.com/@chriswebdog">Chris Gallagher</a> on Unsplash
 
 - - -
 ### Fair use

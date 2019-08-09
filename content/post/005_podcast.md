@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/0x0/0x0.jpg"
+image = "img/0x0/0x0_cover.jpg"
 date = "2019-07-29T06:00:00+02:00"
 title = "0. podcast e fotografie"
 slug = "podcast_fotografie"
@@ -56,6 +56,11 @@ alla versione online.
 Il brano di sottofondo di questo episodio è **Niagara** di <a target="blank" href="https://www.epidemicsound.com/search/?term=Chris%20Shards">Chris Shards</a> su <a target="blank" href="https://www.epidemicsound.com/">Epidemic Sound</a>.
 
 I souni e i sax sono presi da <a target="blank" href="https://freesound.org">Freesound</a>.
+
+
+### credits
+
+Photo cover by <a href="https://unsplash.com/@jb2018?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">James Beheshti</a> on Unsplash
 
 
 <!--
