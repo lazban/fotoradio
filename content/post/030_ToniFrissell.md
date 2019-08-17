@@ -1,6 +1,6 @@
 +++
 showonlyimage = true
-draft = false
+draft = true
 image = "img/0x2/0x2_smith_cover.jpg"
 date = "2019-08-05T06:00:00+02:00"
 title = "La città, l'industria (e l'ossessione) nelle foto di W. Eugene Smith"
