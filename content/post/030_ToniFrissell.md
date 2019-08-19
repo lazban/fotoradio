@@ -1,27 +1,25 @@
 +++
 showonlyimage = true
 draft = true
-image = "img/0x2/0x2_smith_cover.jpg"
-date = "2019-08-05T06:00:00+02:00"
-title = "La città, l'industria (e l'ossessione) nelle foto di W. Eugene Smith"
-slug = "pittsburgh_smith"
-description = "Analisi di alcuni scatti fatti da W. Eugene Smith nel suo monumentale progetto su Pittsburgh"
+image = "img/0x3/0x3_frissell_cover.jpg"
+date = "2019-08-19T06:00:00+02:00"
+title = "La fotografia di moda e l'emancipazione femminile (Toni Frissell)"
+slug = "moda_frissell"
+description = "Una foto di Toni Frissell pubblicata nel 1935 da Vogue rivoluziona la fotografia di moda e aiuta l'emancipazione femminile in America"
 writer = ""
 weight = 1
 +++
 
-Nuova puntata di Fotoradio dedicata a W. Eugene Smith e ai suoi scatti su Pittsburgh: la città, l'industria e l'ossessione.
+Nuova puntata di Fotoradio dedicata a uno scatto di Toni Frissell, pubblicato nel 1935 da Vogue.
 <!--more-->
 
-Tra il 1955 e il 1957, W. Eugene Smith realizzò un reportage da Pittsburgh. Smith doveva restare qualche settimana ma dopo due mesi si rese conto di aver appena iniziato a capire quella città e di volerla esplorare ancora.
+Toni Frissell è una donna, fotografa, americana, nata nel  1907. Entra nel mondo della fotografia di moda nei primi anni '30 dove realizza uno scatto che al tempo stesso rivoluziona il settore, portando le modelle all'aria aperta, fuori dagli studi di posa; e in qualche modo aiuta il processo di emancipazione femminile.
 
-Smith ci ha lasciato 20.000 negativi e un immenso progetto mai terminato fatto di industrie, fiamme, operai... ma anche di strade, negozi, bambini che giocano per strada e adulti con i vestiti della domenica.
+Ne parliamo questa puntata di **_Fotoradio - Un podcast che parla di fotografie_**
 
-Ne parliamo in questa puntata di **_Fotoradio - Un podcast che parla di fotografie_**
+<a class="spreaker-player" href="https://www.spreaker.com/episode/18848102" data-resource="episode_id=18848102" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "Fotografia di moda e emancipazione femminile (Toni Frissell)" su Spreaker.</a>
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/18791649" data-resource="episode_id=18791649" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "La città e l&#39;industria (e l&#39;ossessione) nelle fotografie di W. Eugene Smith" su Spreaker.</a>
-
-Lo puoi ascoltare anche su <a href="https://www.spreaker.com/show/fotoradio-un-podcast-sulle-fotografie">**Spreaker**</a>, oppure su <a target="blank" href="https://podcasts.apple.com/it/podcast/fotoradio-un-podcast-sulle-fotografie/id1473090985">**Apple iTunes**</a>, <a target="blank" href="https://open.spotify.com/show/3dzBBFOJD2gaz2pRdhlzYh">**Spotify**</a>, <a target="blank" href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMzYwNzI4OS9lcGlzb2Rlcy9mZWVk">**Google Podcast**<a target="blank" href="https://castbox.fm/channel/Fotoradio-un-podcast-sulle-fotografie-id2203635?country=it">, **Castbox**</a> e <a target="blank" href="https://soundcloud.com/user-153455998">**Soundcloud**</a>.
+Puoi ascoltare Fotoradio anche sul sito di <a href="https://www.spreaker.com/show/fotoradio-un-podcast-sulle-fotografie">**Spreaker**</a>, oppure su <a target="blank" href="https://podcasts.apple.com/it/podcast/fotoradio-un-podcast-sulle-fotografie/id1473090985">**Apple iTunes**</a>, <a target="blank" href="https://open.spotify.com/show/3dzBBFOJD2gaz2pRdhlzYh">**Spotify**</a>, <a target="blank" href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMzYwNzI4OS9lcGlzb2Rlcy9mZWVk">**Google Podcast**</a>, <a target="blank" href="https://castbox.fm/channel/Fotoradio-un-podcast-sulle-fotografie-id2203635?country=it">**Castbox**</a> e <a target="blank" href="https://soundcloud.com/user-153455998">**Soundcloud**</a>.
 
 Se volete lasciare un commento (grazie!), andate nella sezione <a href="/contact/">Contatti</a>
 
@@ -29,23 +27,21 @@ Se volete lasciare un commento (grazie!), andate nella sezione <a href="/contact
 
 ### Foto dell'episodio
 
-Le foto di cui parliamo nell'episodio sono tutte tratte dalla pubblicazione originale del "Photography Annual 1959", una rivista alla quale Smith si rivolse dopo aver rifiutato l'offerta di "Life".
+La foto principale della puntata è la seguente
 
-{{< figure src="/img/0x2/eugenesmith01_cover.jpg" caption="⬆︎ La copertina di _Photography Annual 1959_<br>* ">}}
+{{< figure src="/img/0x3/0x3_frissell_01.jpg" caption="⬆︎ le 5 ragazze di Toni Frissell, apparse su Vogue nell'agosto del 1935<br>* ">}}
 
-All'interno del fascicolo ci sono 38 pagine curate da Eugene Smith stesso, nell'impaginazione, nella scrittura dei testi e nella scelta delle foto.
+In chiusura di episodio, facciamo anche una incursione nella vita privata di Frissell con questo scatto:
 
-Tre di queste sono oggetto della puntata odierna di Fotoradio:
+{{< figure src="/img/0x3/0x3_frissell_02.jpg" caption="⬆︎ Toni Frissell al lavoro con suo marito Mac che gioca con la figlia Sidney, foto di Frances McGloughlin-Gill<br>* ">}}
 
-{{< figure src="/img/0x2/eugenesmith02_smog.jpg" caption="⬆︎ _University of Pittsburgh's 'Cathedral,' St. Paul's spires landmark Oakland area_ (1956-1957), come scrive lo stesso Smith sulla rivista<br>* ">}}
+Tutte le foto sono © Sidney Frissell Stafford.
 
-{{< figure src="/img/0x2/eugenesmith03_fornaci.jpg" caption="⬆︎ un forgiatore (senza didascalia, 1956-1957)<br>* ">}}
-
-{{< figure src="/img/0x2/eugenesmith04_strada.jpg" caption="⬆︎ una coppia attraversa una strada di Pittsburgh (senza didascalia, 1956-1957) <br>* ">}}
-
-Tutte le foto sono © W. Eugene Smith / Magnum Photos. Guarda la nostra nota sul <a target="blank" href="/static_page/fair_use/">Fair Use</a>
+Leggi la nostra nota sul <a target="blank" href="/static_page/fair_use/">Fair Use</a>
 
 _Grazie di aver ascoltato questo episodio. Alla prossima!_
+
+<!--
 
 - - -
 
@@ -57,33 +53,32 @@ Ted Forbes è uno dei fotografi più interessanti e prolifici a fare video su yo
 
 Un certo Andrew Levitas sta dirigendo un film su Eugene Smith. Si chiamerà **Minimata** e ci sarà **Johnny Depp** a interpretare Smith. Il film, che uscirà nel 2020 in America, è ispirato alla storia vera che ha coinvolto Smith in Giappone, quando scattò una sua celebre foto: _Tomoko Uemura in Her Bath_ (1971). Lo scatto voleva dimostrare gli effetti dell'inquinamento di mercurio.<br>
 Se Fotoradio continuerà dopo la stagione zero, non mancherà un episodio dedicato a questa meraviglioso fotografia, fra le più simili alla _Pietà_ di Michelangelo.
-
+-->
 
 - - -
 
 ### Citazioni
 
-I brani citati vengono da due testi di Contrasto:
+I brani citati vengono da questa fonte:
 
-- John Berger, **Capire una fotografia**, Contrasto 2014, <a target="blank" href="http://www.contrastobooks.com/product_info.php?products_id=586">link al sito dell'editore</a>
+- Toni Frissell, **Toni Frissell, Photographs 1933-1967**, con una introduzione di George Plimpton e una postfazione di Sidney Frissell Stafford, Doubleday 1994. Il libro sembra fuori catalogo ma è acquistabile usato presso <a target="blank" href="https://www.abebooks.co.uk/book-search/title/toni-frissell-photographs-1933-1967/">Abe Books</a> o Ebay o altri.
 
-- Ferdinando Scianna, **Obiettivo ambiguo**, Contrasto 2015, <a target="blank" href="http://www.contrastobooks.com/product_info.php?products_id=703">link al sito dell'editore</a>
 
 <!--
 
 - - -
 ### Errata corrige
 
-
+-->
 
 
 - - -
+
 ### Altri link
 
-- [Gideon Mendel a Cortona On The Move](https://www.cortonaonthemove.com/exhibit/gideon-mendel/) - Gideon Mendel è a Cortona On The Move 2019 fino a settembre.
+- La puntata di **Be My Diary** di Rossella Pivanti citata nell'episodio è ascoltabile a questo (<a target="blank" href="https://www.spreaker.com/user/bemydiary/bmd-s02e10-finito">link</a>)
 
 
--->
 
 - - -
 
@@ -91,17 +86,13 @@ I brani citati vengono da due testi di Contrasto:
 
 Per la musica, in ordine di apparizione:
 
-- _Cats like us_ di <a href="https://www.epidemicsound.com/search/?term=The%20Best%20Ofs" target ="blank">The Best Ofs</a>.
+- _Bobby Swing_ di <a href="https://www.epidemicsound.com/search/?term=Bladverk%20Band" target ="blank">Bladverk Band</a>.
 
-- _Long Gone Sweetie_ di <a href="https://www.epidemicsound.com/search/?term=Sixteen%20Wheelers" target ="blank">Sixteen Wheelers</a>.
+- _Memories from the Past_ di <a href="https://www.epidemicsound.com/search/?term=Bladverk%20Band" target ="blank">Bladverk Band</a>.
 
-- _Fool for Your Love_ di <a href="https://www.epidemicsound.com/search/?term=Sixteen%20Wheelers" target ="blank">Sixteen Wheelers</a>.
+- _Swagger Stagger_ di <a href="https://www.epidemicsound.com/search/?term=Lucas%20Pittman" target ="blank">Lucas Pittman</a>.
 
-- _The Industry_ di <a href="https://www.epidemicsound.com/search/?term=Skrya" target ="blank">Skrya</a>.
-
-- _Red Red Shoes_ di <a href="https://www.epidemicsound.com/search/?term=Czar%20Donic" target ="blank">Czar Donic</a>.
-
-- _Silent Forest_ di <a href="https://www.epidemicsound.com/search/?term=Kikoru" target ="blank">Kikoru</a>.
+- _Night by Night_ di <a href="https://www.epidemicsound.com/search/?term=Bladverk%20Band" target ="blank">Bladverk Band</a>.
 
 Tutte arrivano da <a href="https://www.epidemicsound.com/">Epidemic Sound</a>
 
@@ -111,12 +102,15 @@ Per i suoni, nella pagina <a href="/about/">About</a> ci sono le fonti.
 
 ### Ma che foto c'è in copertina di articolo?
 
-Se si parla di Eugene Smith, dovrebbe esserci uno di quei bianchi e neri meravigliosi di Smith no?
+La foto di copertina del podcast e dell'articolo sono diverse e nessuna è di Toni Frissell :)
 
-E invece no. Questo sito a basso impatto (<a href="/about/">vedi About</a>) cerca di essere rispettoso delle foto degli altri (soprattutto se sono grandi autori o autrici). Pubblicare una foto di Smith in copertina e nell'icona del podcast avrebbe implicato una sua modifica nei formati, che non posso controllare.
+Questo sito a basso impatto (<a href="/about/">vedi About</a>) cerca di essere rispettoso delle foto degli altri (soprattutto se sono grandi autori o autrici). Utilizzare la foto di Frissell per la copertina dell'articolo avrebbe comportato modifiche che ho preferito non fare.
 
-Quindi, ricorro al meritorio sito di <a target="blank" href="https://unsplash.com">Unsplash</a> che fornisce foto royalty free.
-In questo articolo vedete un lavoro di <a target="blank" href="https://unsplash.com/@worldsbetweenlines">Patrick Hendry</a>
+Quindi,
+per l'immagine in apertura di articolo, sono ricorso ad un mio scatto. E' una foto rubata ad una modella mentre faceva un servizio fotografico nella zona di Gae Aulenti a Milano, nel 2016. Se qualcuno vuole contattarmi in merito, basta usare questo (<a href="/contact/">link</a>).
+
+Per la copertina dell'episodio ricorro invece al meritorio sito di <a target="blank" href="https://unsplash.com">Unsplash</a> che fornisce foto royalty free.
+Ho fatto un crop da un <a target="blank" href="https://unsplash.com/photos/CCx6Fz_CmOI">lavoro</a> di <a target="blank" href="https://unsplash.com/@worldsbetweenlines">Alexi Romano</a>  model: @marwaatik
 
 - - -
 
