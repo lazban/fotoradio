@@ -21,6 +21,8 @@ Se poi ti iscrivi al **Canale Telegram** (<a target="blank" href="https://t.me/f
 
 Se ancora usi **facebook** ;-) c'è anche una <a target="blank" href="https://www.facebook.com/Fotoradio-485212768933498">pagina</a> dedicata soltanto a riportare i link agli episodi.
 
+Esiste anche un profilo **instagram** dove pubblico le foto degli episodi (a questo <a target="blank" href="https://instagram.com/fotoradio">link</a>)
+
 C'è anche una <a target="blank" href="https://www.youtube.com/playlist?list=PLnlsCXqTNBbJwNnJSakS20-z4zidlJVeK">**playlist Youtube**</a> che replica l'episodio (ovviamente senza video: podcasts rule!).
 
 Se vuoi rimanere in aggiornato con le novità del sito e le nuove puntate del podcast, puoi <a target="blank" href="https://tinyletter.com/fotoradio">iscriverti alla **newsletter**</a> di Fotoradio (il servizio è offerto da Tiny Letter di Mailchimp che tratta i dati secondo le privacy policy al link indicato; puoi cancellarti in ogni momento e, ovviamente, niente spam)
