@@ -1,6 +1,6 @@
 +++
 showonlyimage = true
-draft = true
+draft = false
 image = "img/0x3/0x3_frissell_cover.jpg"
 date = "2019-08-19T06:00:00+02:00"
 title = "La fotografia di moda e l'emancipazione femminile (Toni Frissell)"
