@@ -23,6 +23,30 @@ CUSTOM CSS REAL
 
 
 /*===== Variables =====*/
+
+.listento {
+  font-size: 1em;
+  color: #333333;
+  background: #FFD983;
+  text-align: center;
+  padding-top: .5em;
+  padding-bottom: .5em;
+  padding-left: .5em;
+  padding-right: .5em;
+}
+
+.listento-a {
+  text-decoration: none;
+}
+
+.listento-a:link {
+  font-size: 1em;
+}
+
+.listento-a:hover {
+  color: red;
+}
+
 /* Theme Colors */
 .site-title, .toggle-navigation i {
   font-size: 1.625em;
