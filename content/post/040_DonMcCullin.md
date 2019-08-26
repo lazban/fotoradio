@@ -1,6 +1,6 @@
 +++
 showonlyimage = true
-draft = true
+draft = false
 image = "img/0x4/0X4_mccullin_cover.jpg"
 date = "2019-08-26T06:00:00+02:00"
 title = "La morte, la guerra e noi nelle foto di Don McCullin"
@@ -10,20 +10,19 @@ writer = ""
 weight = 1
 +++
 
-Nuova puntata di Fotoradio dedicata a Don McCullin e a 4 sue fotografie.
+Nuova puntata di Fotoradio dedicata a Don McCullin e ai suoi scatti a Cipro nel 1964.
 <!--more-->
 
 Don McCullin nasce nel 1935 a Londra. Subito da bambino soffre la guerra, con i bombardamenti tedeschi e per tutta la sua vita viaggerà intorno al mondo a seguire conflitti in prima linea, nelle trincee insieme ai soldati. Inevitabilmente, Don McCullin fotografa la morte e indugia sulle sofferenze e sulle distruzioni per farci sapere cosa accade veramente nel mondo.
 
-In questa puntata di Fotoradio ci soffermiamo su tre scatti presi a Cipro nel 1964, nel mezzo dei confronti armati tra Turchi e Greci. Guardiamo poi un altro scatto, preso a Bradford, Inghilterra, nel 1978, dove vivono gli operai che in prima linea mandano avanti il Paese.
+In questa puntata di Fotoradio ci sof fermiamo su tre scatti presi a Cipro nel 1964, nel mezzo dei confronti armati tra Turchi e Greci. Guardiamo poi un altro scatto, preso a Bradford, Inghilterra, nel 1978, dove vivono gli operai che in prima linea mandano avanti il Paese.
 
 Dividiamo questa puntata in due parti. La prima andrà in onda martedi 27 Agosto con le prime due foto prese a Cipro. La seconda, venerdi 30 Agosto, con altre due foto.
 
 Del resto siamo in piena stagione zero di **_Fotoradio - Un podcast che parla di fotografie_** e fare esperimenti è obbligatorio!
 
-<!--
-<a class="spreaker-player" href="https://www.spreaker.com/episode/18848102" data-resource="episode_id=18848102" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "Fotografia di moda e emancipazione femminile (Toni Frissell)" su Spreaker.</a>
--->
+<a class="spreaker-player" href="https://www.spreaker.com/episode/18920948" data-resource="episode_id=18920948" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "La guerra, la morte e noi... (Don McCullin &#x2F;1a parte)" su Spreaker.</a>
+
 
 Puoi ascoltare Fotoradio anche sul sito di <a href="https://www.spreaker.com/show/fotoradio-un-podcast-sulle-fotografie">**Spreaker**</a>, oppure su <a target="blank" href="https://podcasts.apple.com/it/podcast/fotoradio-un-podcast-sulle-fotografie/id1473090985">**Apple iTunes**</a>, <a target="blank" href="https://open.spotify.com/show/3dzBBFOJD2gaz2pRdhlzYh">**Spotify**</a>, <a target="blank" href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMzYwNzI4OS9lcGlzb2Rlcy9mZWVk">**Google Podcast**</a>, <a target="blank" href="https://castbox.fm/channel/Fotoradio-un-podcast-sulle-fotografie-id2203635?country=it">**Castbox**</a> e <a target="blank" href="https://soundcloud.com/user-153455998">**Soundcloud**</a>.
 
@@ -32,7 +31,7 @@ Se volete lasciare un commento (grazie!), andate nella sezione <a href="/contact
 
 Fatemi sapere se questa formula delle puntate spezzate vi piace e se trovate qualcosa che potrebbe essere fatto meglio.
 
-Questo articolo si aggiornerà venerdi per inserire tutte le immagini!
+Questo articolo si aggiornerà venerdi per inserire tutte le immagini della seconda parte!
 
 - - -
 
@@ -46,18 +45,18 @@ Per la prima "mezza" puntata, abbiamo una fotografia introduttiva che evidenzia 
 
 Nella prima parte dell'episodio vediamo due fotografie, scattate nel quartiere Turco di Limassol, Cipro, nel 1064.
 
-{{< figure src="/img/0x4/mccullin_01.jpg" caption="⬆︎ _Turkish militia leaving the side entrance of a cinema_, Limassol, Cyprus, 1964<br>* ">}}
+{{< figure src="/img/0x4/mccullin_01.jpg" caption="⬆︎ _La milizia turca passa da una uscita laterale di un cinema_, Limassol, Cipro, 1964<br>* ">}}
 
-{{< figure src="/img/0x4/mccullin_02.jpg" caption="⬆︎ Ghaziveram<br>* ">}}
+{{< figure src="/img/0x4/mccullin_02.jpg" caption="⬆︎ _Una donna turca con suo figlio, nel momento in cui apprende della morte di suo marito, ucciso dalla milizia greca_, Ghaziveram, Cipro, 1964<br>* ">}}
 
 
 Nell'episodio parliamo anche delle "persone che guardano" nelle foto di Don McCullin, prendendo 3 esempi:
 
-{{< figure src="/img/0x4/mccullin_02a.jpg" caption="⬆︎ Turkish Militia<br>* ">}}
+{{< figure src="/img/0x4/mccullin_02a.jpg" caption="⬆︎ donna turca (vedi didascalia precedente)<br>* ">}}
 
-{{< figure src="/img/0x4/mccullin_02b.jpg" caption="⬆︎ Turkish Militia<br>* ">}}
+{{< figure src="/img/0x4/mccullin_02b.jpg" caption="⬆︎ _una famiglia turca veglia il corpo di un pastore ucciso da un cecchino greco_, Limassol, Cipro, 1964<br>* ">}}
 
-{{< figure src="/img/0x4/mccullin_02c.jpg" caption="⬆︎ Turkish Militia<br>* ">}}
+{{< figure src="/img/0x4/mccullin_02c.jpg" caption="⬆︎ _Cambogia, 1972_<br>* ">}}
 
 
 
