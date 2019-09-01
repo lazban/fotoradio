@@ -141,7 +141,6 @@ Per la musica, in ordine di apparizione:
 
 - _Aeon Ending_ di <a href="https://www.epidemicsound.com/search/?term=Dew%20Of%20Light" target ="blank">Dew of Light</a>.
 
--->
 
 Tutte arrivano da <a href="https://www.epidemicsound.com/">Epidemic Sound</a>
 
