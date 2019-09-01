@@ -23,6 +23,8 @@ Del resto siamo in piena stagione zero di **_Fotoradio - Un podcast che parla di
 
 <a class="spreaker-player" href="https://www.spreaker.com/episode/18920948" data-resource="episode_id=18920948" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "La guerra, la morte e noi... (Don McCullin &#x2F;1a parte)" su Spreaker.</a>
 
+<a class="spreaker-player" href="https://www.spreaker.com/episode/18921027" data-resource="episode_id=18921027" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "La guerra, la morte e il sorriso (Don McCullin &#x2F;2a parte)" su Spreaker.</a>
+
 
 Puoi ascoltare Fotoradio anche sul sito di <a href="https://www.spreaker.com/show/fotoradio-un-podcast-sulle-fotografie">**Spreaker**</a>, oppure su <a target="blank" href="https://podcasts.apple.com/it/podcast/fotoradio-un-podcast-sulle-fotografie/id1473090985">**Apple iTunes**</a>, <a target="blank" href="https://open.spotify.com/show/3dzBBFOJD2gaz2pRdhlzYh">**Spotify**</a>, <a target="blank" href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMzYwNzI4OS9lcGlzb2Rlcy9mZWVk">**Google Podcast**</a>, <a target="blank" href="https://castbox.fm/channel/Fotoradio-un-podcast-sulle-fotografie-id2203635?country=it">**Castbox**</a> e <a target="blank" href="https://soundcloud.com/user-153455998">**Soundcloud**</a>.
 
@@ -59,20 +61,14 @@ Nell'episodio parliamo anche delle "persone che guardano" nelle foto di Don McCu
 {{< figure src="/img/0x4/mccullin_02c.jpg" caption="⬆︎ _Cambogia, 1972_<br>* ">}}
 
 
-
-<!--
-
 #### 2a parte
 
 Nella seconda parte, guardiamo altre due foto che concludono il nostro discorso su Don McCullin
 
-{{< figure src="/img/0x4/mccullin_04.jpg" caption="⬆︎ Turkish woman<br>* ">}}
+{{< figure src="/img/0x4/mccullin_03.jpg" caption="⬆︎ _Soldati della forza di pace britannica, trasportano corpi di turchi uccisi dalla milizia greca_, Cipro, 1964<br>* ">}}
 
 {{< figure src="/img/0x4/mccullin_04.jpg" caption="⬆︎ _Young Girl Taking the Family Laundry_, Bradford, Yorkshire, 1978<br>* ">}}
 
--->
-
-Venerdi prossimo, uscirà un'altra "mezza" puntata con altre due foto che pubblicheremo qui.
 
 Tutte le foto sono © Don McCullin.
 
@@ -137,15 +133,13 @@ Per la musica, in ordine di apparizione:
 - _You Save Me_ di <a href="https://www.epidemicsound.com/search/?term=Zoe%20Goodman" target="blank">Zoe Goodman</a>
 
 
-<!--
-
 #### 2a parte
 
 - _You Save Me_ di <a href="https://www.epidemicsound.com/search/?term=Zoe%20Goodman" target ="blank">Zoe Goodman</a>.
 
-- _You Save Me_ di <a href="https://www.epidemicsound.com/search/?term=Zoe%20Goodman" target ="blank">Zoe Goodman</a>.
+- _Rainly Smile_ di <a href="https://www.epidemicsound.com/search/?term=Colton%20Walls" target ="blank">Colton Walls</a>.
 
-- _You Save Me_ di <a href="https://www.epidemicsound.com/search/?term=Zoe%20Goodman" target ="blank">Zoe Goodman</a>.
+- _Aeon Ending_ di <a href="https://www.epidemicsound.com/search/?term=Dew%20Of%20Light" target ="blank">Dew of Light</a>.
 
 -->
 
