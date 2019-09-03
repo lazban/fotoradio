@@ -1,8 +1,8 @@
 +++
 showonlyimage = true
-draft = true
+draft = false
 image = "img/0x5/0x5_cover.jpg"
-date = "2019-08-31T06:00:00+02:00"
+date = "2019-09-03T05:00:00+02:00"
 title = "La foto e il sacrificio di Alan Kurdi"
 slug = "alan_kurdi"
 description = "Come la foto di Alan Kurdi ha cambiato (o forse no) la percezione sui migranti"
