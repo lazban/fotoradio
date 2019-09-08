@@ -1,6 +1,6 @@
 +++
 showonlyimage = true
-draft = false
+draft = true
 image = "img/0x6/0x6_cover.jpg"
 date = "2019-09-08T05:00:00+02:00"
 title = "I migranti nel Mediterrano nella foto di Massimo Sestini"
