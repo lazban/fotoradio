@@ -10,14 +10,14 @@ writer = ""
 weight = 1
 +++
 
-In questo episodio di Fotoradio guardiamo la fotografia di Massimo Sestini che ha vinto il World Press Photo ma soprattutto dedicata alla foto del corpo di Alan Kurdi sul bagnasciuga di Bodrum, Turchia.
+In questo episodio di Fotoradio guardiamo la fotografia di Massimo Sestini che ha vinto il World Press Photo nel 2015.
 <!--more-->
 
-Nel mar Mediterraneo a una ventina di miglia dalle coste libiche, la nostra Marina Militare avvista un barcone di immigrati. S'alza un elicottero in perlustrazione e a bordo c'è anche Massimo Sestini che scatta una foto che gli varrà il World Press Photo nel 2015.
+Nel mar Mediterraneo a una ventina di miglia dalle coste libiche, la nostra Marina Militare avvista un barcone di migranti. S'alza un elicottero in perlustrazione e a bordo c'è anche Massimo Sestini che scatta una foto che gli varrà il World Press Photo nel 2015.
 
 Ma oltre ai premi, c'è molto da dire su questa foto e ne parliamo in questo episodio di **_Fotoradio - Un podcast che parla di fotografie_**.
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/18971953" data-resource="episode_id=18971953" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="false">Ascolta "La foto e il sacrificio di Alan Kurdi" su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/19039038" data-resource="episode_id=19039038" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="false">Ascolta "0x6_sestini_FINAL" su Spreaker.</a>
 
 Puoi ascoltare Fotoradio anche sul sito di <a href="https://www.spreaker.com/show/fotoradio-un-podcast-sulle-fotografie">**Spreaker**</a>, oppure su <a target="blank" href="https://podcasts.apple.com/it/podcast/fotoradio-un-podcast-sulle-fotografie/id1473090985">**Apple iTunes**</a>, <a target="blank" href="https://open.spotify.com/show/3dzBBFOJD2gaz2pRdhlzYh">**Spotify**</a>, <a target="blank" href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMzYwNzI4OS9lcGlzb2Rlcy9mZWVk">**Google Podcast**</a>, <a target="blank" href="https://castbox.fm/channel/Fotoradio-un-podcast-sulle-fotografie-id2203635?country=it">**Castbox**</a> e <a target="blank" href="https://soundcloud.com/user-153455998">**Soundcloud**</a>.
 
