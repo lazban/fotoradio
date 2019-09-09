@@ -1,8 +1,8 @@
 +++
 showonlyimage = true
-draft = true
+draft = false
 image = "img/0x6/0x6_cover.jpg"
-date = "2019-09-08T05:00:00+02:00"
+date = "2019-09-09T06:00:00+02:00"
 title = "I migranti nel Mediterrano nella foto di Massimo Sestini"
 slug = "massimo_sestini"
 description = "lo sguardo dei migranti è pieno di speranza nello scatto zenitale di Massimo Sestini"
