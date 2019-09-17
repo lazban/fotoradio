@@ -47,6 +47,21 @@ CUSTOM CSS REAL
   color: red;
 }
 
+.breaking {
+  color: white;
+  display: block;
+}
+.breaking-a:link {
+  text-decoration:underline;
+  color: white;
+}
+.breaking-a:hover {
+  color: red;
+}
+.breaking-a:visited {
+  color: white;
+}
+
 /* Theme Colors */
 .site-title, .toggle-navigation i {
   font-size: 1.625em;
