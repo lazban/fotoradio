@@ -27,7 +27,7 @@ Il dominio è preso da Google Domains: facile da usare e nessun costo aggiuntivo
 La **grafica** è autoprodotta utilizzando risorse free. Il font del logo è un font Google, <a target="blank" href="https://fonts.google.com/specimen/Source+Sans+Pro">Source Sans Pro</a>, sviluppato da Paul D. Hunt. La copertina del podcast ha una foto presa da Unsplash (modificata nei colori) di <a href="https://unsplash.com/@jacksloop">Jack Sloop</a>.
 L'avatar di Madebyhumanrace (l'uomo preistorico) viene da <a target="blank" href="https://www.flaticon.com">Flaticon</a>.
 
-Il **sound design** è ridotto al minimo e utilizza risorse di Freesound (vari suoni d'ambiente e strumenti musicali: i sax in apertura e chiusura sono di <a target="blank" href="https://freesound.org/people/stanrams/">Stanrams</a>).
+Il **sound design** utilizza risorse di Freesound (vari suoni d'ambiente e strumenti musicali: i sax in apertura e chiusura sono di <a target="blank" href="https://freesound.org/people/stanrams/">Stanrams</a>).
 
 Non ho resistito ad un po' di musica e quindi è arrivato Epidemic Sound che purtroppo costa circa 13€/mese (però si può accendere e spengere quando si vuole: ad esempio ora che ho finito la stagione zero è spento; poi lo riaccenderò all'inizio della nuova stagione e così via).
 
