@@ -41,9 +41,12 @@ L'**hosting** del podcast è fatto su <a target="blank" href="https://www.spreak
 
 Sui questo sito nessun dato personale viene raccolto (se non quelli che inserite nel form contatti ma con il solo scopo di rispondere e nient'altro). Sono attivi Google Analytics e le statistiche di Spreaker sul podcast per analizzare i dati di traffico e le informazioni aggregate del caso.
 
+
 ### poi l'impatto è un po' cresciuto...
 
-Verso la fine della stagione zero ho preso il <a target="blank" href="https://www.rode.com/rodecasterpro">Rodecaster Pro</a> di Rode che costa un po' (circa 550€). Di fatto è un mixer ma anche molto di più (connessione telefonica per interviste; pad con i suoni; compressore e equalizzatore integrato...) che mi semplifica il flusso e mi consente di registrare a pc spento.
+All'ultimo episodio della stagione zero ho preso il <a target="blank" href="https://www.rode.com/rodecasterpro">Rodecaster Pro</a> di Rode che costa un po' (circa 550€). Di fatto è un mixer ma anche molto di più (connessione telefonica per interviste; pad con i suoni; compressore e equalizzatore integrato...) che mi semplifica il flusso e mi consente di registrare a pc spento.
+
+E dall'8 ottobre, il set-up si è completato. Ho trovato il <a target="blank" href="https://it.rode.com/microphones/procaster">Rode Procaster</a> usato, un microfonone dinamico che pesa quasi un chilo e che mi piace particolarmente (circa 100€ usato).
 
 
 - - -
