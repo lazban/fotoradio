@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = false
 image = "img/ANTROPOCENE/dance of clairvoyants.jpeg"
-date = "2020-01-27T06:00:00+02:00"
+date = "2020-01-27T07:00:00+02:00"
 title = "[Fotoradio] Antropocene trailer - Dance of the clairvoyants"
 slug = "clairvoyants"
 description = "la nuova stagione di Fotoradio è alle porte mentre i Pearl Jam cantano di clairvoyants"
