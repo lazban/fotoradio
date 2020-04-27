@@ -13,7 +13,7 @@ Puoi ascoltare gli episodi direttamente sui post, oppure su <a target="blank" hr
 
 Visto che non sempre è semplice parlare di fotografie senza vederle, su questo sito si riportano i link agli episodi del podcast e si mostrano le fotografie oggetto della puntata, oltre che i link della bibliografia, delle citazioni, o altro.
 
-**Fotoradio è un progetto sperimentale.** E' tutto da capire come verrà e se sarà di interesse per qualcuno. Intanto mi son divertito con la stagione zero poi vedremo...
+**Fotoradio è un progetto sperimentale.** E' tutto da capire come verrà e se sarà di interesse per qualcuno. Intanto mi son divertito con la stagione zero poi sono arrivate le fotonews e ora si sta lavorando alla stagione dedicata all'antropocene... vedremo...
 Per iniziare, ho ridotto al minimo l'impatto.
 
 - - -
@@ -31,7 +31,7 @@ Il **sound design** utilizza risorse di Freesound (vari suoni d'ambiente e strum
 
 Non ho resistito ad un po' di musica e quindi è arrivato Epidemic Sound che purtroppo costa circa 13€/mese (però si può accendere e spengere quando si vuole: ad esempio ora che ho finito la stagione zero è spento; poi lo riaccenderò all'inizio della nuova stagione e così via).
 
-Per le FOTONEWS invece il tappeto musicale arriva da Freesound ed è composto da <a target="blank" href="https://freesound.org/people/anechoix/">Anechoix</a>
+Per le FOTONEWS del 2019 invece il tappeto musicale arriva da Freesound ed è composto da <a target="blank" href="https://freesound.org/people/anechoix/">Anechoix</a>. Nel 2020, per ora, si usano le basi di Epidemic Sound.
 
 Per il podcast la **strumentazione** si riduce ad un ATR2100 di AudioTechnica preso usato sul marketplace di Amazon a circa 100€. Neewer ha un braccio di supporto per il microfono (che include anche il cavo xls, l'antipop e un ragno - anche se non perfetto per l'ATR2100) che <a target="blank" href="https://www.amazon.it/gp/product/B01HTI2MRO/ref=ppx_yo_dt_b_asin_title_o03_s01?ie=UTF8&psc=1">costa poco</a>.
 
@@ -65,6 +65,6 @@ Infine, ci sono io, **Alessandro**, che ho difficoltà a raccontarmi. Per ora, d
 
 Fotoradio is an italian language podcast dedicated to photographs.
 
-In this website we show pictures we talk about in the show and we credit rights owners. We refer to the Fair Use as stated in the US Copyright Act. Please check it out <a href="https://fotoradio.info/static_page/fair_use/">this page</a> for more information.
+In this website we show pictures we talk about in the show and we credit owners. We refer to the Fair Use as stated in the US Copyright Act. Please check it out <a href="https://fotoradio.info/static_page/fair_use/">this page</a> for more information.
 
 If you like to get in touch, please use <a href="https://fotoradio.info/contact/">this page</a>.
