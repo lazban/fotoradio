@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "FOTORADIO2"
+title = "FOTORADIO"
 theme = "hugo-nederburg-theme"
 languageCode = "it"
 # Enable comments by entering your Disqus shortname
