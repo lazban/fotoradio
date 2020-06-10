@@ -19,8 +19,8 @@ paginate = 5 #frontpage pagination
     disable = false
     # set to true to meet General Data Protection Regulation (GDPR)
     anonymizeIP = false
-    respectDoNotTrack = false
-    useSessionStorage = false
+    respectDoNotTrack = true
+    useSessionStorage = true
 
 [params]
   # Unmark to use post folder for images. Default is static folder.
