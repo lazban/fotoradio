@@ -123,5 +123,3 @@ In questo articolo vedete un lavoro di <a target="blank" href="https://unsplash.
 ### Fair use
 
 In questo sito si seguono le regole del **Fair use** vigenti in America per l'utilizzo di immagini di proprietà di terzi. Spiego meglio <a href="/static_page/fair_use/">qui</a>
-
-- - -

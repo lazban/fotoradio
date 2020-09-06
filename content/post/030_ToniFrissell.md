@@ -117,5 +117,3 @@ Ho fatto un crop da un <a target="blank" href="https://unsplash.com/photos/CCx6F
 ### Fair use
 
 In questo sito si seguono le regole del **Fair use** vigenti in America per l'utilizzo di immagini di proprietà di terzi. Spiego meglio <a href="/static_page/fair_use/">qui</a>
-
-- - -

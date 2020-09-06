@@ -66,5 +66,3 @@ I pezzi sono, in ordine:
 ### Fair use
 
 In questo sito si seguono le regole del **Fair use** vigenti in America per l'utilizzo di immagini di proprietà di terzi. Spiego meglio <a target="blank" href="/static_page/fair_use/">qui</a>
-
-- - -
