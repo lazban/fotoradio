@@ -31,25 +31,22 @@ Una rassegna delle foto di cui parliamo nel podcast sono anche su Youtube a ques
 <br>
 - - -
 
-## Visa pour l'image
+## puntata # 08 - THE LAST OF US
 
-Si tiene ormai da 32 anni a Perpignan _Visa pour l'image_ una rassegna di mostre di fotogiornalismo. Nel podcast facciamo un giro intorno al mondo ripercorrendo il _tour du mond_ in 80 giorni di Jules Verne.
-
+_The last of us_ è un videogioco, sviluppato da Naughty Dog. La seconda parte è uscita a giugno del 2020 in tutto il mondo e rappresenta il _fil rouge_ di questo episodio.
 Cominciamo.
 
 
-### Europa
-- - -
-#### Sicilia, Priolo
+### Un videogioco?
 
-A Augusta-Priolo, in Sicilia, sorge uno dei più grandi complessi petrolchimici d’Europa che fornisce 1/3 del fabbisogno di petrolio dell’Italia. E, ovviamente, in uno degli angoli più belli delle coste italiane, cresce il degrado, l’inquinamento e i tumori che colpiscono la popolazione.
+I videogiochi non sono solo roba per bambini o bambine, o per gente smidollata che ha tempo da perdere. Ormai _l’industria_ dei videogiochi ha superato quella del cinema e della musica messe insieme, in un giro di milioni e milioni di dollari (e di persone…). I videogiochi sono un mezzo di comunicazione come altri, con un loro linguaggio e con una capacità peculiare nel trasmettere messaggi e idee: il _videogame_ è il mezzo di comunicazione che ha il più alto livello di immedesimazione, di immersività il mezzo che più ci coinvolge nella storia e nelle emozioni che genera.
+E nello specifico di _The last of us parte seconda_ questo è più vero che mai.
 
-Ce lo racconta **Elena Chernyshova**, classe 1981, fotografa nata a Mosca e con base in Francia, vincitrice del WPP nel 2014.
+La serie di _The last of us_ è prodotta da Naughty Dog, una azienda statunitense che da più di 30 anni sviluppa giochi. Tra i suoi successi, _The last of us parte prima_ uscita nel 2013 per Playstation 3 e che ha venduto più di 20 milioni di copie e, appunto, _The last of us parte seconda_ uscita nel 2020 per Playstation 4.
+La saga racconta di vicende che avvengono in un futuro prossimo, dove l’umanità reduce da una pandemia, si è pressoché estinta. Restano pochi esseri umani per come li conosciamo oggi (_gli ultimi di noi_, _the last of us_ appunto). Per il resto ci sono zombie, aree tossiche e una natura selvaggia che si è ripresa gli spazi che l’urbanizzazione le aveva tolto.
 
-* Sito under construction al momento https://elena-chernyshova.com/
-
-{{< figure src="/img/NEWS/202009/chernyshova.jpg" caption="⬆︎ foto di: Elena Chernyshova</br> ">}}
-
+Ma perché _The last of us_ è così importante? (secondo me).
+Il punto è che il videogioco affronta una serie di situazioni e argomenti che mettono il giocatore di fronte a delle emozioni vere ma, di più, le fa vivere. Sequenza dopo sequenza si entra dentro
 
 ### Africa
 - - -
