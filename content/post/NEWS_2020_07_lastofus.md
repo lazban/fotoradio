@@ -22,7 +22,6 @@ Puoi ascoltare Fotoradio anche sul sito di <a href="https://www.spreaker.com/sho
 
 Se vuoi lasciare un commento (grazie!), vai nella sezione <a href="/contact/">Contatti</a>
 
-- - -
 
 ### Youtube
 
