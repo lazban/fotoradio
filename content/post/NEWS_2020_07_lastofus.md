@@ -83,6 +83,8 @@ Parlando di ghetti, è imprescindibile il lavoro sui **Manicomi** di Gianni Bere
 
 {{< figure src="/img/NEWS/news08/1 berengogardin.jpeg" caption="⬆︎ Campo Rom Firenze, Gianni Berengo Gardin, 1993</br> ">}}
 
+{{< figure src="/img/NEWS/20200618/andrade.jpg" caption="⬆︎ foto di Joao Antonio Andrade pubblicata su Instagram il 31 maggio 2020<br> ">}}
+
 _In festa_ è anche un volume, a catalogo per Contrasto ->   https://amzn.to/2XfTSaV
 
 
