@@ -81,9 +81,7 @@ Parlando di ghetti, è imprescindibile il lavoro sui **Manicomi** di Gianni Bere
 
 **In festa** è un lavoro monumentale che presenta fotografie tra gli anni '50 e il 2000, dal nord al sud d'Italia. E in questo lavoro trovano anche spazio due scatti presi in un campo rom.
 
-{{< figure src="/img/NEWS/news08/1 berengogardin.jpeg" caption="⬆︎ Campo Rom Firenze, Gianni Berengo Gardin, 1993</br> ">}}
-
-{{< figure src="/img/NEWS/20200618/andrade.jpg" caption="⬆︎ foto di Joao Antonio Andrade pubblicata su Instagram il 31 maggio 2020<br> ">}}
+{{< figure src="/img/NEWS/news08/1 berengogardin.jpg" caption="⬆︎ Campo Rom Firenze, Gianni Berengo Gardin, 1993</br> ">}}
 
 _In festa_ è anche un volume, a catalogo per Contrasto ->   https://amzn.to/2XfTSaV
 
