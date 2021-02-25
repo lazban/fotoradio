@@ -115,9 +115,9 @@ Simon Yeung non si trova sui libri di storia della fotografia ma su instagram (-
 
 Yeung realizza i suoi scatti in luoghi abbandonati, dove l'incuria ha progressivamente distrutto le costruzioni dell'uomo e dove la natura si è ripresa lo spazio disabitato.
 
-{{< figure src="/img/NEWS/news08/5 yeung1.jpg" caption="⬆︎ Simon Yeung</br> ">}}
+{{< figure src="/img/NEWS/news08/5 yeung1.jpeg" caption="⬆︎ Simon Yeung</br> ">}}
 
-{{< figure src="/img/NEWS/news08/6 yeung2.jpg" caption="⬆︎ Simon Yeung</br> ">}}
+{{< figure src="/img/NEWS/news08/6 yeung2.jpeg" caption="⬆︎ Simon Yeung</br> ">}}
 
 
 ## Famiglia
@@ -144,6 +144,8 @@ Cristiano Bonora è il creatore di Vertical Gaming Photography (--> https://www.
 {{< figure src="/img/NEWS/news08/8 bonora.jpeg" caption="⬆︎ Cristiano Bonora, _The last of us parte seconda_, 2020</br> ">}}
 
 Le emozioni di queste foto emergono come nelle foto _vere_ e alcune composizioni e giochi di luce sono notevoli. In questo scatto, Ellie, la protagonista del gioco, si porta le mani al viso per la felicità di trovarsi in un parco con ricostruzioni di dinosauri.
+
+In questo video, Cristiano Bonora è intervistato da Francesco Fossetti di Everyeye e parla di questa nuova arte fotografica --> https://www.youtube.com/watch?v=SutBVuYPre8
 
 
 ## Gruppi paramilitari
