@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/NEWS/202009/copertina_articolo.jpg"
+image = "img/NEWS/news08/0 blog.jpg"
 date = "2021-02-21T07:00:00+02:00"
 title = "FOTONEWS: The Last of Us"
 slug = "news08_thelastofus"
@@ -29,9 +29,9 @@ Se vuoi lasciare un commento (grazie!), vai nella sezione <a href="/contact/">Co
 Una rassegna delle foto di cui parliamo nel podcast sono anche su Youtube a questo <a target="blank" href="https://youtu.be/jNa35hAqPNc">link</a>
 
 <br>
-- - -
 
 ## puntata # 08 - THE LAST OF US
+- - -
 
 _The last of us_ è un videogioco, sviluppato da Naughty Dog. La seconda parte è uscita a giugno del 2020 in tutto il mondo e rappresenta il _fil rouge_ di questo episodio.
 Cominciamo.
@@ -46,165 +46,124 @@ La serie di _The last of us_ è prodotta da Naughty Dog, una azienda statunitens
 La saga racconta di vicende che avvengono in un futuro prossimo, dove l’umanità reduce da una pandemia, si è pressoché estinta. Restano pochi esseri umani per come li conosciamo oggi (_gli ultimi di noi_, _the last of us_ appunto). Per il resto ci sono zombie, aree tossiche e una natura selvaggia che si è ripresa gli spazi che l’urbanizzazione le aveva tolto.
 
 Ma perché _The last of us_ è così importante? (secondo me).
-Il punto è che il videogioco affronta una serie di situazioni e argomenti che mettono il giocatore di fronte a delle emozioni vere ma, di più, le fa vivere. Sequenza dopo sequenza si entra dentro
+Il punto è che il videogioco affronta una serie di situazioni e argomenti che mettono il giocatore di fronte a delle emozioni vere ma, di più, le fa vivere. Sequenza dopo sequenza si entra dentro la storia di quel mondo e, letteralmente, se ne vivono le conseguenze emotive, morali e sociali.
+Ogni movimento di pad è fatto con la tensione addosso, quanto di più simile ci sia alla realtà nel mondo videoludico.
+E le tematiche che il gioco propone sono attualissime e controverse e pongono diversi interrogativi al videogiocatore che non potrà affrontarli con leggerezza. Il grado di immedesimazione è talmente alto che _The last of us parte seconda_ è un'esperienza più che un gioco.
 
-### Africa
+Infatti, per quanto ci sia un livello tecnico altissimo (per grafica e intelligenza artificiale), _The last of us_ è giocabile da chiunque sia per la modularità della difficoltà di gioco ma anche per le sue opzioni di accessibilità.
+In questo video, Pierpaolo Greco di Multiplayer.it ne parla (https://www.youtube.com/watch?v=MsY0EScdbv8).
+
+### ma veniamo alle fotografie
+
+L'idea di questa puntata delle Fotonews di Fotoradio è quello di partire da _The last of us_, entrare dentro alcuni dei temi che propone e vedere come la fotografia li ha interpretati.
+
+Il videogioco ci mostra come la specie umana potrebbe involvere in un contesto ostile e post-pandemico, decimata e senza risorse.
+_The last of us_ ci mostra alcuni aspetti.
+
+* **Emarginazione**. Nel gioco, una apocalittica epidemia ha trasformato molti esseri umani in _infetti_. Gli uomini sani si sono quindi ritirati in ghetti e hanno lasciato fuori altri uomini e una natura sempre più ostile.
+Nella storia i ghetti non sono mancati e ne vedremo alcuni nelle foto di **Gianni Berengo Gardin** e **Heinrich Jost**.
+
+* **Natura**. Nel futuro ipotetico del gioco, la specie umana si è ritirata e ha abbandonato le città. E la natura ne ha ripreso il possesso. Con le foto di **Daniele Ratti** e **Simon Yeung** vedremo come questo è già successo anche oggi.
+
+* **Famiglia**. Le difficoltà che le persone nel gioco devono fronteggiare, stringono i rapporti con le persone vicine e chiudono ogni spazio agli _altri_ uomini che diventano nemici da uccidere o sfruttare. Una foto di **Elliott Erwitt** ci racconta dell'amore tra madre e figlia.
+
+* **Gruppi paramilitari**. In _The last of us_ la polizie e l'esercito non esistono. Ma esistono gruppi armati organizzati che dettano legge. Questo purtroppo accade anche in Messico come vedremo in una foto di **Alfredo Bosco**
+
+Cominciamo a guardare le foto. Nel podcast o su youtube ne parliamo un po'.
+
+
+## I Ghetti
 - - -
-#### Kenya
-**Yasuyoshi Chiba** è fotografo della AFP e ha vinto il WPP nel 2020 con una foto per una manifestazione sui diritti civili in Sudan che magari vedremo in una prossima puntata delle Fotonews.
-
-* https://www.instagram.com/yasuyoshi_chiba/
-
-{{< figure src="/img/NEWS/202009/chiba.jpg" caption="⬆︎ Sud Nigeria, foto di: Yasuyoshi Chiba</br> ">}}
 
 
-### Asia
+### Gianni Berengo Gardin
+
+Parlando di ghetti, è imprescindibile il lavoro sui **Manicomi** di Gianni Berengo Gardin. Ma essendo molto famoso abbiamo preferito scegliere un altro scatto del fotografo italiano.
+
+**In festa** è un lavoro monumentale che presenta fotografie tra gli anni '50 e il 2000, dal nord al sud d'Italia. E in questo lavoro trovano anche spazio due scatti presi in un campo rom.
+
+{{< figure src="/img/NEWS/news08/1 berengogardin.jpg" caption="⬆︎ Campo Rom Firenze, Gianni Berengo Gardin, 1993</br> ">}}
+
+_In festa_ è anche un volume, a catalogo per Contrasto ->   https://amzn.to/2XfTSaV
+
+
+### Heinrch Jost
+
+Heinrich Jost è un soldato nazista di cui racconta un libro di Susie Lindfield, _La luce crudele - fotografia e violenza politica_, edito da Contrasto nel 2013 (--> https://amzn.to/2ZaeLVO).
+
+{{< figure src="/img/NEWS/news08/1 jost.jpg" caption="⬆︎ Donna nel ghetto di Varsavia, Heinrich Jost, 1941</br> ">}}
+
+
+## Natura
 - - -
 
-#### Siria - Raqqa
-Raqqa, in Siria, è stata la capitale dell’Isis. Adesso è una città distrutta, popolata solo di donne e bambini, che gli uomini o sono morti o sono in galera.
-**Tim Dirven** inviato dal quotidiano belga _De Morgen_ è nato nel 1968 e collabora da lungo tempo con il giornale.
+### Daniele Ratti
 
-{{< figure src="/img/NEWS/202009/dirven.jpg" caption="⬆︎ Raqqa, foto di: Tim Dirven</br> ">}}
+Daniele Ratti, fotografo italiano classe 1974, ha portato a Cortona il suo lavoro _Next stop_. Sul sito del Cortona on the move ci sono alcuni scatti -->
+https://www.cortonaonthemove.com/exhibit/daniele-ratti/
 
+Nel suo lavoro Ratti ci mostra come luoghi usualmente affollati sono diventati deserti e come questo ci appaia estraniante (anche grazie a scelte azzeccate dal punto di vista cromatico e dell'illuminazione).
 
-#### Nagorno-Karabakh
-**Anush Babajanyan** è una fotografa armena, tra le fondatrici di 4plus, un collettivo di donne fotografe armene con lo scopo di sviluppare la fotografia documentaristica per rafforzare la figura femminile in Armenia e non solo
+{{< figure src="/img/NEWS/news08/3 ratti1.jpg" caption="⬆︎ Daniele Ratti, 2020</br> ">}}
 
-* http://anushbabajanyan.org/
-* https://www.4plus.org/
+{{< figure src="/img/NEWS/news08/4 ratti2.jpg" caption="⬆︎ Daniele Ratti, 2020</br> ">}}
 
-Babajanyan ci porta alcuni ritratti di famiglia.
+Il sito personale del fotografo --> https://www.danieleratti.it/
 
-{{< figure src="/img/NEWS/202009/babajanyan.jpg" caption="⬆︎ Raqqa, foto di: Tim Dirven</br> ">}}
+### Simon Yeung
 
+Simon Yeung non si trova sui libri di storia della fotografia ma su instagram (--> https://www.instagram.com/irnmonkey/) e sul suo sito internet (--> https://irnmonkey.com/).
 
+Yeung realizza i suoi scatti in luoghi abbandonati, dove l'incuria ha progressivamente distrutto le costruzioni dell'uomo e dove la natura si è ripresa lo spazio disabitato.
 
-#### Pakistan, Lago Manchar
+{{< figure src="/img/NEWS/news08/5 yeung1.jpg" caption="⬆︎ Simon Yeung</br> ">}}
 
-Sul lago vive in case galleggianti una popolazione in via di estinzione che ha 5000 anni di storia, discendenti dei primi abitanti della valle dell’Indu.
-Ce ne parla **Sarah Caron**, fotografa francese nata in Provenza nel 1972, basata ora a Islamabad in Pakistan, da dove realizza reportage per diverse testate.
-
-* https://www.instagram.com/sarah_caron_photographer/
-
-{{< figure src="/img/NEWS/202009/caron.jpg" caption="⬆︎ Lago Manchar, Pakistan. Foto di: Sarah Caron</br> ">}}
+{{< figure src="/img/NEWS/news08/6 yeung2.jpg" caption="⬆︎ Simon Yeung</br> ">}}
 
 
-#### India, Mumbay e Uttar Pradesh
-**Bryan Denton** è un fotografo americano che fa base a New Delhi in India. Per il New York Times ha realizzato un reportage sul “minaccioso futuro dell’India”, dice il quotidiano: siccità o alluvioni.
-
-* https://bryandenton.com/
-* https://www.nytimes.com/interactive/2019/11/25/climate/india-monsoon-drought.html
-
-{{< figure src="/img/NEWS/202009/denton1.jpg" caption="⬆︎ Mumbay è una megalopoli indiana e la megalopoli è attraversata dal fiume Mithi che ogni tanto esonda. Foto di: Bryan Denton</br> ">}}
-
-{{< figure src="/img/NEWS/202009/denton2.jpg" caption="⬆︎ Nell'Uttar Pradesh invece il terreno è ormai completamente arido. Foto di: Bryan Denton</br> ">}}
-
-#### India, Maharashtra
-Dal Maharashtra e dalla sue piantagioni di canna da zucchero, arriva  **Chloe Sharrock**, fotografa francese nata nel 1992, concentrata sul medio oriente e sui diritti delle donne, dice il suo sito internet,
-E proprio di diritti delle donne parla _Sugar Girl_ che racconta di isterectomie, di rimozioni dell’utero. Il suo reportage è particolarmente interessante. Ne parlo un po' di più nel podcast ma, se volete, merita di essere visto, e letto, direttamente dal sito dell'autrice o dalle pagine del _Visa_.
-
-* https://www.sharrockchloe.com/
-* https://www.sharrockchloe.com/sugar-girl
-* https://www.visapourlimage.com/festival/expositions/sugar-girls
-
-{{< figure src="/img/NEWS/202009/sharrock.jpg" caption="⬆︎ Una donna cerca di creare un fascio di canne. Foto di: Chloe Sharrock</br> ">}}
-
-
-#### India, Delhi
-**James Whitlow Delano**, classe 1960, americano che fa base a Tokyo, ha realizzato un lungo lavoro sulla plastica: negli imballaggi come nei vestiti, nei contenitori come nei molti oggetti che usiamo tutti i giorni. E la plastica usata, che non si degrada, copre ormai importanti porzioni del pianeta.
-
-* http://www.jameswhitlowdelano.com/
-
-{{< figure src="/img/NEWS/202009/delano.jpg" caption="⬆︎ La plastica ormai è parte integrante del paesaggio. Foto di: James Whitlow Delano</br> ">}}
-
-#### Cina, Hong Kong
-Molte fotografie dedicate alle manifestazioni di Hong Kong di questi mesi. Abbiamo scelto il lavoro di **Anthony Wallace**, fotografo della AFP, classe 1979, che ci mostra sia le violenze della polizia che dei manifestanti.
-
-* https://www.instagram.com/antwallace/
-
-{{< figure src="/img/NEWS/202009/wallace.jpg" caption="⬆︎ Hong Kong. Foto di: Anthony Wallace</br> ">}}
-
-
-#### Cina, Wuhan
-Da Wuhan, è partita l’epidemia del corona virus e per prima la città ha conosciuto gli effetti e i paesaggi del lockdown.
-Questi paesaggi ce li racconta **Roman Pilipey**, fotogiornalista ucraino attualmente basato a Pechino.
-
-* https://romanpilipey.com/
-* https://www.instagram.com/romanpilipey/
-
-{{< figure src="/img/NEWS/202009/pilipey.jpg" caption="⬆︎ Foto di: Roman Pilipey</br> ">}}
-
-
-### America
+## Famiglia
 - - -
-#### Stati Uniti, San Francisco
 
-**Josh Edelson** è un fotografo americano che fa base a San Francisco
-e che ci vuole ricordare uno degli effetti del coronavirus: il distanziamento sociale.
+### Elliott Erwitt
 
-* https://edelsonphotography.com/
+Di Elliott Erwitt abbiamo già parlato e la sua produzione è talmente estesa e interessante che sicuramente ne riparleremo in futuro. Qui presentiamo uno scatto visto nella mostra _Family_ vista al Mudec di Milano qualche mese fa.
 
-{{< figure src="/img/NEWS/202009/edelson.jpg" caption="⬆︎ Washington Square Park, San Francisco. Foto di: Josh Edelson</br> ">}}
+{{< figure src="/img/NEWS/news08/7 erwitt.jpg" caption="⬆︎ Elliott Erwitt, New York, 1953</br> ">}}
 
-
-#### Stati Uniti, Los Angeles
-
-Un altro evento, oltre il covid, ha attraversato l’America in questi mesi è il  movimento di _Black Lives Matter_, ne abbiamo parlato in una scorsa puntata delle Fotonews (XXX).
-**Allen J. Schaben**, fotografo americano californiano che lavora per il Los Angeles Times ha raccolto immagini dalle manifestazioni di protesta.
-
-* https://www.instagram.com/alschaben/
-
-{{< figure src="/img/NEWS/202009/schaben.jpg" caption="⬆︎ Manifestazione tra Manhattan Beach e XXX. Foto di: Allan Schaben</br> ">}}
+Se c'è una foto che racconta l'intensità dei rapporti umani e, nello specifico, dell'amore fra madre e figlie, beh, è questa. Qui Lucienne, la prima moglie di Erwitt, guarda in uno stato di adorazione sua figlia Jennifer.
 
 
-#### Canada, Alberta
+## Virtual photography
+- - -
 
-**Ian Willms**, nato nel 1985 e residente a Toronto è anche membro di Panos Pictures, una agenzia di documentazione che merita un'occhiata.
+### Cristiano Bonora
 
-* https://www.ianwillms.com/
-* https://www.ianwillms.com/oilsands#1
-* https://www.panos.co.uk/
+Introduciamo qui un nuovo ambito dell'arte fotografica: la _Virtual Photography_. Ovvero, l'arte di prendere scatti _dentro_ i videogiochi, dentro l'ambiente di gioco. Non ci sono quindi macchine fotografiche e obiettivi ma c'è comunque la necessità di gestire l'inquadratura, la luce... di raccontare una storia.
 
-Il reportage di Willms introduce il termine di _razzismo ambientale_: i nativi d'America siano stati chiusi in riserve in prossimità delle quali si sono sviluppati enormi complessi industriali altamente inquinanti.
-Il lavoro di Willms merita un approfondimento ben oltre il podcast. Guardate il suo sito personale.
+Cristiano Bonora è il creatore di Vertical Gaming Photography (--> https://www.verticalgamingphotography.com/) dove ci sono diverse _gallery_ dedicate a molti videogiochi, fra i quali anche _The last of us parte seconda_.
 
-{{< figure src="/img/NEWS/202009/willms.jpg" caption="⬆︎ Impianti petrolchimici in prossimità di Fort McMurray. Foto di: Ian Willms</br> ">}}
+{{< figure src="/img/NEWS/news08/8 bonora.jpg" caption="⬆︎ Cristiano Bonora, _The last of us parte seconda_, 2020</br> ">}}
 
-
-#### Messico, stato di Guerrero
-
-**Alfredo Bosco**, italiano con base a Milano, sceglie di raccontarci il declino raggiunto da Acapulco, ormai una delle città più pericolose del Messico insieme a tutto lo stato che la ospita: lo stato di Guerrero.
-
-* https://www.alfredobosco.com/
-* https://www.alfredobosco.com/forgotten_guerrero-p18592
-
-{{< figure src="/img/NEWS/202009/bosco.jpg" caption="⬆︎ A Rincon de Chautla gli abitanti si organizzano per rispondere ai raid dei cartelli. Foto di: Alfredo Bosco</br> ">}}
-
-#### Cuba, l'Avana
-Altro reportage super interessante arriva da Cuba ad opera di **Sanne Derks**, fotogiornalista e antropologa olandese con diversi progetti in America Latina.
-
-* http://www.sannederks.com/
-* http://www.sannederks.com/manifiesto-del-agua
-
-L'acqua corrente è un problema per Cuba ma non sembra esserlo per le strutture turistiche.
-
-{{< figure src="/img/NEWS/202009/derks.jpg" caption="⬆︎ Piscina di un albergo in centro a L'Avana e taniche d'acqua sui tetti delle case. Foto di: Sanne Derks</br> ">}}
+Le emozioni di queste foto emergono come nelle foto _vere_ e alcune composizioni e giochi di luce sono notevoli. In questo scatto, Ellie, la protagonista del gioco, si porta le mani al viso per la felicità di trovarsi in un parco con ricostruzioni di dinosauri.
 
 
-#### Stati Uniti, New York
+## Gruppi paramilitari
+- - -
 
-**Peter Turnley**, classe 1955, fotogiornalista americano che vive fra New York e Parigi, si è trovato bloccato nella grande mela nel periodo di lockdown dovuto al corona virus e ha deciso di tenere un _diario visivo_.
+### Alfredo Bosco
 
-* http://www.peterturnley.com/
+Nel futuro distopico di _The last of us_ la specie umana si è divisa in clan e si sono costituiti gruppi paramilitari che sparano a vista su chiunque sia _diverso_ o parte di un altro clan.
 
-{{< figure src="/img/NEWS/202009/turnley.jpg" caption="⬆︎ Shannone (28 anni). Foto di: Peter Turnley</br> ">}}
+Questo accade anche nel nostro mondo. Ad esempio in Messico, nello stato di Guerrero, da dove Alfredo Bosco ha realizzato un bel reportage che ritroveremo anche nella puntata dedicata al _Visa pour l'image_ di Perpignan.
+In questi villaggi la gente comune deve armarsi per combattere le bande criminali.
+
+{{< figure src="/img/NEWS/news08/9 bosco.jpg" caption="⬆︎ Alfredo Bosco, 2019</br> ">}}
 
 </br>
 
 - - -
 
-## Grazie!
+# Grazie!
 
 _Grazie di aver ascoltato questo episodio. Alla prossima!_
 
@@ -240,12 +199,15 @@ Le voci fuori campo sono tratte dal trailer del documentario di National Geograp
 </br>
 -->
 
-- - -
+<!--
 ## Errata corrige
+- - -
+
 
 Nel podcast, dico che Raqqa è in Iraq mentre invece è in Siria.
 
 </br>
+-->
 
 
 <!--
@@ -257,27 +219,28 @@ Nel podcast, dico che Raqqa è in Iraq mentre invece è in Siria.
 
 -->
 
+## Credits per l'episodio
 - - -
 
-## Credits per l'episodio
+### foto
 
-La foto di copertina dell'articolo è mia ed è presa dentro il _couvent des minimes_ a Perpignan nello spazio dedicato a Yasuyoshi Chiba.
+La foto di copertina dell'articolo è presa da uno scatto promozionale del videogioco _The last of us parte seconda_ di Naughty Dog, 2020.
 
-La copertina del podcast ha anch'essa una foto mia della bandiera del _Visa pour l'image_ che sventola nel cortile dell'_eglise des dominicains_.
-
+La copertina del podcast è un frame catturato dal gioco _The last of us parte seconda_
 
 <!--
  e dell'episodio del podcast è di **Mike Von** via Unsplash (-> <a target="blank" href="https://unsplash.com/photos/wLY9bHf-KUU">link</a>)
 -->
 
-La musica dell'episodio è di **Yellowbase** via Epidemic Sound -> <a target="blank" href="https://www.epidemicsound.com/artists/yellowbase">link</a>.
-L'artista è anche su Spotify -> <a target="blank" href="https://open.spotify.com/artist/08RrRBdcoplP0QFGopcJfC">link</a>
+### musica
+
+La canzoni dell'episodio hanno la voce di **Cara Rainer**. La prima con la musica di **Humble Hey** (_Give Me_). La seconda con **Gamma Skies** con _I Bet You’re Cold_). Arrivano da Epidemic Sound -> <a target="blank" href="https://www.epidemicsound.com/">link</a>.
 
 </br>
 
+
 - - -
 
-
-## Fair use
+# Fair use
 
 In questo sito si seguono le regole del **Fair use** vigenti in America per l'utilizzo di immagini di proprietà di terzi. Spiego meglio <a href="/static_page/fair_use/">qui</a>
