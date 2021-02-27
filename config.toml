@@ -82,7 +82,7 @@ talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"
 
   [[menu.main]]
   name = "Newsletter"
-  url = "https://tinyletter.com/fotoradio"
+  url = "/static_page/newsletter/"
   weight = 20
 
 #  [[menu.main]]

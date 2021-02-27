@@ -1,5 +1,5 @@
 +++
-date = "2019-01-01T06:00:00+02:00"
+date = "2021-02-27T06:00:00+02:00"
 title = "Newsletter"
 +++
 
@@ -11,3 +11,7 @@ Iscriviti alla newsletter per ricevere informazioni sulle nuove puntate in uscit
 
 
 -->
+
+Iscrivi alla newsletter per ricevere informazioni sulle puntate in uscita, vedere le foto ecc...
+
+<iframe src="https://fotoradio.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
