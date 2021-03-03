@@ -19,7 +19,7 @@ o, se mi conosci, puoi fermarmi per **strada** e dirmi cosa ne pensi!
 
 Se poi ti iscrivi al **Canale Telegram** (<a target="blank" href="https://t.me/fotoradioinfo">@fotoradioinfo</a>) riceverai tutte le notifiche e le news sul podcast oltre che a vedere le foto di cui si parla nei singoli episodi.
 
-Se ancora usi **facebook** ;-) c'è anche una <a target="blank" href="https://www.facebook.com/Fotoradio-485212768933498">pagina</a> dedicata soltanto a riportare i link agli episodi.
+Se ancora usi **facebook** ;-) c'è anche una <a target="blank" href="https://fb.me/fotoradio.info">pagina</a> dedicata soltanto a riportare i link agli episodi.
 
 Esiste anche un profilo **instagram** dove pubblico le foto degli episodi (a questo <a target="blank" href="https://instagram.com/fotoradio">link</a>)
 
