@@ -23,9 +23,9 @@ Se ancora usi **facebook** ;-) c'è anche una <a target="blank" href="https://fb
 
 Esiste anche un profilo **instagram** dove pubblico le foto degli episodi (a questo <a target="blank" href="https://instagram.com/fotoradio">link</a>)
 
-C'è anche una <a target="blank" href="https://www.youtube.com/playlist?list=PLnlsCXqTNBbJwNnJSakS20-z4zidlJVeK">**playlist Youtube**</a> che replica l'episodio (ovviamente senza video: podcasts rule!).
+C'è anche una <a target="blank" href="https://www.youtube.com/channel/UCiaiddtEOdYK2YaRBcZAm2Q">**canale Youtube**</a> che dove si scorrono insieme le foto dell'episodio del podcast.
 
-Se vuoi rimanere in aggiornato con le novità del sito e le nuove puntate del podcast, puoi <a target="blank" href="https://tinyletter.com/fotoradio">iscriverti alla **newsletter**</a> di Fotoradio (il servizio è offerto da Tiny Letter di Mailchimp che tratta i dati secondo le privacy policy al link indicato; puoi cancellarti in ogni momento e, ovviamente, niente spam)
+Se vuoi rimanere in aggiornato con le novità del sito e le nuove puntate del podcast, puoi <a target="blank" href="https://fotoradio.substack.com/p/coming-soon">iscriverti alla **newsletter**</a> di Fotoradio (il servizio è offerto da Substack che tratta i dati secondo le privacy policy al link indicato; puoi cancellarti in ogni momento e, ovviamente, niente spam)
 
 
 <form method="POST" action="https://formspree.io/fotoradio.info@gmail.com">
