@@ -1,7 +1,7 @@
 +++
 date = "2019-07-01T06:00:00+01:00"
 title = "Contatti"
-description = "tutti i modi per conttare Fotoradio - Un podcast che parla di fotografie"
+description = "tutti i modi per contattare Fotoradio - Un podcast che parla di fotografie"
 +++
 
 I feedback su questo progetto sono molto importanti per noi (per capire cosa funziona e cosa no. Per questo è una _stagione zero_!!!).
