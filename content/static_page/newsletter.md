@@ -14,8 +14,8 @@ Iscriviti alla newsletter per ricevere informazioni sulle nuove puntate in uscit
 
 Iscrivi alla newsletter per ricevere informazioni sulle puntate in uscita, vedere le foto ecc...
 
-<iframe src="https://fotoradio.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://fotoradio.substack.com/embed" width="480" height="320" align="center" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
-la newsletter sarà gratuita per sempre, i tuoi dati non saranno mai ceduti e terzi e potrai disiscriverti quando vorrai.
+la newsletter sarà gratuita per sempre, i tuoi dati non saranno mai ceduti e terzi e potrai cancellare l'iscrizione quando vorrai.
 
 Grazie!
