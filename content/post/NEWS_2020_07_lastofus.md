@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = false
 image = "img/NEWS/news08/0 blog.jpg"
-date = "2021-02-21T07:00:00+02:00"
+date = "2020-07-01T07:00:00+02:00"
 title = "FOTONEWS #08: The Last of Us"
 slug = "news08_thelastofus"
 description = "Parliamo di fotografie partendo da un videogioco: The Last of Us"

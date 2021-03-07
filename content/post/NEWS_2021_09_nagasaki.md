@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = false
 image = "img/NEWS/news09/nagasaki-cover.jpg"
-date = "2021-03-10T07:00:00+02:00"
+date = "2020-08-01T07:00:00+02:00"
 title = "FOTONEWS #09: Nagasaki"
 slug = "09_Nagasaki"
 description = "Parliamo delle fotografie che raccontano la tragedia di Nagasaki"
