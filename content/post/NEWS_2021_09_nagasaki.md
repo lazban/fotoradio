@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/NEWS/news09/nagasaki-cover.jpg"
+image = "img/NEWS/news09/nagasaki_cover.jpg"
 date = "2020-08-01T07:00:00+02:00"
 title = "FOTONEWS #09: Nagasaki"
 slug = "09_Nagasaki"
@@ -141,7 +141,6 @@ la voce della donna giapponese che sentiamo nell'episodio è di Matsuo Sachiko, 
 ### musica
 
 Nel podcast abbiamo dei suoni in sottofondo. Sono di **John Barzetti** e di **Johnny Berlung**. La canzone finale è _Ruined_ di **Mike Stringer**.
-
 Arrivano da Epidemic Sound -> <a target="blank" href="https://www.epidemicsound.com/">link</a>.
 
 </br>
