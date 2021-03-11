@@ -6,6 +6,8 @@ draft = false
 
 Se vuoi ascoltare Fotoradio qui ci sono tutti i link per collegarti alla tua piattaforma preferita.
 
+Dal momento della pubblicazione della puntata può passare qualche ora prima che sia disponibile sulle piattaforme esterne a Spreaker.
+
 Puoi ascoltare Fotoradio
 
 - sul sito di <a href="https://www.spreaker.com/show/fotoradio-un-podcast-sulle-fotografie">**Spreaker**</a>,
