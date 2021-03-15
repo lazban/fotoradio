@@ -23,9 +23,11 @@ Puoi ascoltare Fotoradio anche sul sito di <a href="https://www.spreaker.com/sho
 Se vuoi lasciare un commento (grazie!), vai nella sezione <a href="/contact/">Contatti</a>
 
 
-### Youtube
+### Youtube e newsletter
 
-Una rassegna delle foto di cui parliamo nel podcast sono anche su Youtube a questo <a target="blank" href="https://youtu.be/ayEC_NGJGxY">link</a>
+Una rassegna delle foto di cui parliamo nel podcast sono anche su **Youtube** a questo <a target="blank" href="https://youtu.be/ayEC_NGJGxY">link</a>.
+
+Gli scatti e i testi sono anche raccolti in una newsletter su **Substack** (<a target="blank" href="https://fotoradio.substack.com/">link</a>)
 
 <br>
 
