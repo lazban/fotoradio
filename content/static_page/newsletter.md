@@ -12,7 +12,7 @@ Iscriviti alla newsletter per ricevere informazioni sulle nuove puntate in uscit
 
 -->
 
-Iscrivi alla newsletter per ricevere informazioni sulle puntate in uscita, vedere le foto ecc...
+Iscrivi alla newsletter per ricevere informazioni sulle puntate in uscita, vedere le foto e leggere i testi ecc...
 
 <iframe src="https://fotoradio.substack.com/embed" width="480" height="320" align="center" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 

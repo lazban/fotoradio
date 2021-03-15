@@ -18,15 +18,17 @@ Le Fotonews sono su **_Fotoradio - Un podcast che parla di fotografie_**.
 
 <a class="spreaker-player" href="https://www.spreaker.com/episode/31521129" data-resource="episode_id=31521129" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="false">Ascolta "fotonews &#x2F; 18.06.20 - MINNEAPOLIS" su Spreaker.</a>
 
-Puoi ascoltare Fotoradio anche sul sito di <a href="https://www.spreaker.com/show/fotoradio-un-podcast-sulle-fotografie">**Spreaker**</a>, oppure su <a target="blank" href="https://podcasts.apple.com/it/podcast/fotoradio-un-podcast-sulle-fotografie/id1473090985">**Apple iTunes**</a>, <a target="blank" href="https://open.spotify.com/show/3dzBBFOJD2gaz2pRdhlzYh">**Spotify**</a>, <a target="blank" href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMzYwNzI4OS9lcGlzb2Rlcy9mZWVk">**Google Podcast**</a>, <a target="blank" href="https://castbox.fm/channel/Fotoradio-un-podcast-sulle-fotografie-id2203635?country=it">**Castbox**</a> e <a target="blank" href="https://soundcloud.com/user-153455998">**Soundcloud**</a>.
+Puoi ascoltare Fotoradio anche sul sito di <a href="https://www.spreaker.com/show/fotoradio-un-podcast-sulle-fotografie">**Spreaker**</a>, oppure su <a target="blank" href="https://podcasts.apple.com/it/podcast/fotoradio-un-podcast-sulle-fotografie/id1473090985">**Apple iTunes**</a>, <a target="blank" href="https://open.spotify.com/show/3dzBBFOJD2gaz2pRdhlzYh">**Spotify**</a>, <a target="blank" href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMzYwNzI4OS9lcGlzb2Rlcy9mZWVk">**Google Podcast**</a>, <a target="blank" href="https://castbox.fm/channel/Fotoradio-un-podcast-sulle-fotografie-id2203635?country=it">**Castbox**</a>.
 
 Se vuoi lasciare un commento (grazie!), vai nella sezione <a href="/contact/">Contatti</a>
 
 - - -
 
-### Youtube
+### Youtube e newsletter
 
 Una rassegna delle foto di cui parliamo nel podcast sono anche su Youtube a questo <a target="blank" href="https://youtu.be/jNa35hAqPNc">link</a>
+
+Gli scatti e i testi sono anche raccolti in una newsletter su **Substack** (<a target="blank" href="https://fotoradio.substack.com/">link</a>)
 
 <br>
 
