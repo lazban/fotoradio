@@ -83,12 +83,12 @@ Parlando di ghetti, è imprescindibile il lavoro sui **Manicomi** di Gianni Bere
 
 {{< figure src="/img/NEWS/news08/1 firenze93.jpg" caption="⬆︎ Campo Rom Firenze, Gianni Berengo Gardin, 1993</br> ">}}
 
-_In festa_ è anche un volume, a catalogo per Contrasto ->   https://amzn.to/2XfTSaV
+_In festa_ è anche un volume, a catalogo per Contrasto -> https://amzn.to/2XfTSaV
 
 
 ### Heinrch Jost
 
-Heinrich Jost è un soldato nazista di cui racconta un libro di Susie Lindfield, _La luce crudele - fotografia e violenza politica_, edito da Contrasto nel 2013 (--> https://amzn.to/2ZaeLVO).
+Heinrich Jost è un soldato nazista di cui racconta un libro di Susie Lindfield, _La luce crudele - fotografia e violenza politica_, edito da Contrasto nel 2013 (-> https://amzn.to/2ZaeLVO).
 
 {{< figure src="/img/NEWS/news08/2 jost.jpeg" caption="⬆︎ Donna nel ghetto di Varsavia, Heinrich Jost, 1941</br> ">}}
 

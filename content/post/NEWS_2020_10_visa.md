@@ -1,9 +1,9 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/NEWS/202010/copertina_articolo.jpg"
+image = "img/NEWS/2020/10_visa/copertina_articolo.jpg"
 date = "2020-09-01T07:00:00+02:00"
-title = "FOTONEWS: Visa pour l'image"
+title = "FOTONEWS #10: Visa pour l'image"
 slug = "news_10_visa"
 description = "Il covid non ha fermato la 32a edizione di Visa Pour L'image di Perpignan"
 writer = ""
@@ -18,7 +18,7 @@ Le Fotonews sono su **_Fotoradio - Un podcast che parla di fotografie_**.
 
 <a class="spreaker-player" href="https://www.spreaker.com/episode/31521129" data-resource="episode_id=31521129" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="false">Ascolta "fotonews &#x2F; 18.06.20 - MINNEAPOLIS" su Spreaker.</a>
 
-Puoi ascoltare Fotoradio anche sul sito di <a href="https://www.spreaker.com/show/fotoradio-un-podcast-sulle-fotografie">**Spreaker**</a>, oppure su <a target="blank" href="https://podcasts.apple.com/it/podcast/fotoradio-un-podcast-sulle-fotografie/id1473090985">**Apple iTunes**</a>, <a target="blank" href="https://open.spotify.com/show/3dzBBFOJD2gaz2pRdhlzYh">**Spotify**</a>, <a target="blank" href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMzYwNzI4OS9lcGlzb2Rlcy9mZWVk">**Google Podcast**</a>, <a target="blank" href="https://castbox.fm/channel/Fotoradio-un-podcast-sulle-fotografie-id2203635?country=it">**Castbox**</a>.
+Puoi ascoltare Fotoradio anche sul sito di <a href="https://www.spreaker.com/show/fotoradio-un-podcast-sulle-fotografie">**Spreaker**</a>, oppure su <a target="blank" href="https://podcasts.apple.com/it/podcast/fotoradio-un-podcast-sulle-fotografie/id1473090985">**Apple iTunes**</a>, <a target="blank" href="https://open.spotify.com/show/3dzBBFOJD2gaz2pRdhlzYh">**Spotify**</a>, <a target="blank" href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMzYwNzI4OS9lcGlzb2Rlcy9mZWVk">**Google Podcast**</a> e su molte altre piattaforme elencate <a href="/static_page/ascolta/">qui</a>.
 
 Se vuoi lasciare un commento (grazie!), vai nella sezione <a href="/contact/">Contatti</a>
 
