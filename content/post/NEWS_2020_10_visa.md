@@ -26,13 +26,13 @@ Se vuoi lasciare un commento (grazie!), vai nella sezione <a href="/contact/">Co
 
 ### Youtube e newsletter
 
-Una rassegna delle foto di cui parliamo nel podcast sono anche su Youtube a questo <a target="blank" href="https://youtu.be/jNa35hAqPNc">link</a>
+Una rassegna delle foto di cui parliamo nel podcast sono anche su Youtube a questo <a target="blank" href="https://youtu.be/gwBbDf5jbBE">link</a>
 
 Gli scatti e i testi sono anche raccolti in una newsletter su **Substack** (<a target="blank" href="https://fotoradio.substack.com/">link</a>)
 
 <br>
 
-## Visa pour l'image
+## Puntata #10 - Visa pour l'image
 - - -
 
 Si tiene ormai da 32 anni a Perpignan _Visa pour l'image_ una rassegna di mostre di fotogiornalismo. Nel podcast facciamo un giro intorno al mondo ripercorrendo il _tour du monde_ in 80 giorni di Jules Verne.
@@ -191,6 +191,8 @@ Altro reportage super interessante arriva da Cuba ad opera di **Sanne Derks**, f
 
 * http://www.sannederks.com/
 * http://www.sannederks.com/manifiesto-del-agua
+
+Il New York Times ha pubblicato recentemente il reportage di Derks qui: https://www.nytimes.com/2021/02/15/travel/cuba-clean-water.html
 
 L'acqua corrente è un problema per Cuba ma non sembra esserlo per le strutture turistiche.
 
