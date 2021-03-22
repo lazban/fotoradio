@@ -10,13 +10,13 @@ Dal momento della pubblicazione della puntata può passare qualche ora prima che
 
 Puoi ascoltare Fotoradio su:
 
-- <a target="blank" href="https://open.spotify.com/show/3dzBBFOJD2gaz2pRdhlzYh">**Spotify**</a>
+- <a target="blank" href="https://links.fotoradio.info/spotify">**Spotify**</a>
 
-- <a href="https://podcasts.apple.com/it/podcast/fotoradio-un-podcast-sulle-fotografie/id1473090985">**Apple Podcast**</a>
+- <a href="https://links.fotoradio.info/apple">**Apple Podcast**</a>
 
-- <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMzYwNzI4OS9lcGlzb2Rlcy9mZWVk">**Google Podcast**</a>
+- <a href="https://links.fotoradio.info/google">**Google Podcast**</a>
 
-- <a href="https://www.spreaker.com/show/fotoradio-un-podcast-sulle-fotografie">**Spreaker**</a>
+- <a href="https://links.fotoradio.info/spreaker">**Spreaker**</a>
 
 ma anche su:
 
