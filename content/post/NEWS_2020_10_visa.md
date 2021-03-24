@@ -3,7 +3,7 @@ showonlyimage = true
 draft = false
 image = "img/NEWS/2020/10_visa/copertina_articolo.jpg"
 date = "2020-09-01T07:00:00+02:00"
-title = "FOTONEWS #10: Visa pour l'image"
+title = "FOTONEWS #10: LE TOUR DU MONDE"
 slug = "news_10_visa"
 description = "Il covid non ha fermato la 32a edizione di Visa Pour L'image di Perpignan"
 writer = ""
@@ -16,9 +16,10 @@ Il covid non ha fermato la 32a edizione di _Visa pour l'image_ di Perpignan: dec
 
 Le Fotonews sono su **_Fotoradio - Un podcast che parla di fotografie_**.
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/31521129" data-resource="episode_id=31521129" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="false">Ascolta "fotonews &#x2F; 18.06.20 - MINNEAPOLIS" su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/43858754" data-resource="episode_id=43858754" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "Fotonews #10 - LE TOUR DU MONDE" su Spreaker.</a>
 
-Puoi ascoltare Fotoradio anche sul sito di <a href="https://links.fotoradio.info/spreaker">**Spreaker**</a>, oppure su <a target="blank" href="https://links.fotoradio.info/apple">**Apple iTunes**</a>, <a target="blank" href="https://links.fotoradio.info/spotify">**Spotify**</a>, <a target="blank" href="https://links.fotoradio.info/google">**Google Podcast**</a> e su molte altre piattaforme elencate <a href="/static_page/ascolta/">qui</a>.
+Oltre che sul sito di <a href="https://links.fotoradio.info/spreaker">**Spreaker**</a>, puoi ascoltare le Fotonews anche su
+<a target="blank" href="https://links.fotoradio.info/apple">**Apple iTunes**</a>, <a target="blank" href="https://links.fotoradio.info/spotify">**Spotify**</a>, <a target="blank" href="https://links.fotoradio.info/google">**Google Podcast**</a> e su molte altre piattaforme elencate <a href="/static_page/ascolta/">qui</a>.
 
 Se vuoi lasciare un commento (grazie!), vai nella sezione <a href="/contact/">Contatti</a>
 
@@ -26,7 +27,9 @@ Se vuoi lasciare un commento (grazie!), vai nella sezione <a href="/contact/">Co
 
 ### Youtube e newsletter
 
-Una rassegna delle foto di cui parliamo nel podcast sono anche su Youtube a questo <a target="blank" href="https://youtu.be/gwBbDf5jbBE">link</a>
+Una rassegna delle foto di cui parliamo nel podcast sono anche su Youtube
+
+{{< yt gwBbDf5jbBE >}}
 
 Gli scatti e i testi sono anche raccolti in una newsletter su **Substack** (<a target="blank" href="https://fotoradio.substack.com/">link</a>)
 
@@ -250,7 +253,10 @@ Le voci fuori campo sono tratte dal trailer del documentario di National Geograp
 - - -
 ## Errata corrige
 
-Nel podcast, dico che Raqqa è in Iraq mentre invece è in Siria.
+
+nb - questo podcast è stato registrato appena rientrato da Perpignan a settembre del 2020. Ci sono quindi alcune inesattezze (tipo che in Nagorno-Karabakh è tornata la pace...)
+
+Inoltre, nel podcast dico che Raqqa è in Iraq mentre invece è in Siria.
 
 </br>
 
