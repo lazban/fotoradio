@@ -8,16 +8,20 @@ Se vuoi ascoltare Fotoradio qui ci sono tutti i link per collegarti alla tua pia
 
 Dal momento della pubblicazione della puntata può passare qualche ora prima che sia disponibile sulle piattaforme esterne a Spreaker.
 
-Puoi ascoltare Fotoradio
+Puoi ascoltare Fotoradio su:
 
-- sul sito di <a href="https://www.spreaker.com/show/fotoradio-un-podcast-sulle-fotografie">**Spreaker**</a>,
-- su <a target="blank" href="https://podcasts.apple.com/it/podcast/fotoradio-un-podcast-sulle-fotografie/id1473090985">**Apple iTunes**</a>,
-- su <a target="blank" href="https://open.spotify.com/show/3dzBBFOJD2gaz2pRdhlzYh">**Spotify**</a>,
-- su <a target="blank" href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMzYwNzI4OS9lcGlzb2Rlcy9mZWVk">**Google Podcast**</a>,
-- su <a target="blank" href="https://castbox.fm/channel/Fotoradio-un-podcast-sulle-fotografie-id2203635?country=it">**Castbox**</a>
-- su <a target="blank" href="https://soundcloud.com/user-153455998">**Soundcloud**</a>
-- su <a target="blank" href="https://overcast.fm/itunes1473090985">**Overcast**</a>
-- e su <a target="blank" href="https://pca.st/itunes/1473090985">**Pocketcast**</a>
-- e anche sulle pagine del blog <a target="blank" href="/">**Fotoradio**</a>
+- <a target="blank" href="https://links.fotoradio.info/spotify">**Spotify**</a>
+
+- <a href="https://links.fotoradio.info/apple">**Apple Podcast**</a>
+
+- <a href="https://links.fotoradio.info/google">**Google Podcast**</a>
+
+- <a href="https://links.fotoradio.info/spreaker">**Spreaker**</a>
+
+ma anche su:
+
+su <a target="blank" href="https://castbox.fm/channel/Fotoradio-un-podcast-sulle-fotografie-id2203635?country=it">**Castbox**</a>; <a target="blank" href="https://www.deezer.com/it/show/419562">**Deezer**</a>; <a target="blank" href="https://overcast.fm/itunes1473090985">**Overcast**</a>; <a target="blank" href="https://pca.st/itunes/1473090985">**Pocketcast**</a>; <a target="blank" href="https://podcastaddict.com/podcast/2413816">**Podcast Addict**</a>; <a target="blank" href="https://www.podchaser.com/podcasts/fotoradio-un-podcast-sulle-fot-894285">**Podchaser**</a>.
+
+e anche sulle pagine del blog <a target="blank" href="/">**Fotoradio**</a>
 
 Se vuoi lasciare un messaggio vai nell'area <a href="/contact/">contatti</a> e se vuoi saperne di più nell'area <a href="/about/">about</a>.

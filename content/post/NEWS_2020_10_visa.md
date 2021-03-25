@@ -1,10 +1,10 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/NEWS/202009/copertina_articolo.jpg"
-date = "2020-09-29T07:00:00+02:00"
-title = "FOTONEWS: Visa pour l'image"
-slug = "news_202009_visa"
+image = "img/NEWS/2020/10_visa/copertina_articolo.jpg"
+date = "2020-09-01T07:00:00+02:00"
+title = "FOTONEWS #10: LE TOUR DU MONDE"
+slug = "news_10_visa"
 description = "Il covid non ha fermato la 32a edizione di Visa Pour L'image di Perpignan"
 writer = ""
 weight = 1
@@ -16,24 +16,29 @@ Il covid non ha fermato la 32a edizione di _Visa pour l'image_ di Perpignan: dec
 
 Le Fotonews sono su **_Fotoradio - Un podcast che parla di fotografie_**.
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/31521129" data-resource="episode_id=31521129" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="false">Ascolta "fotonews &#x2F; 18.06.20 - MINNEAPOLIS" su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/43858754" data-resource="episode_id=43858754" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "Fotonews #10 - LE TOUR DU MONDE" su Spreaker.</a>
 
-Puoi ascoltare Fotoradio anche sul sito di <a href="https://www.spreaker.com/show/fotoradio-un-podcast-sulle-fotografie">**Spreaker**</a>, oppure su <a target="blank" href="https://podcasts.apple.com/it/podcast/fotoradio-un-podcast-sulle-fotografie/id1473090985">**Apple iTunes**</a>, <a target="blank" href="https://open.spotify.com/show/3dzBBFOJD2gaz2pRdhlzYh">**Spotify**</a>, <a target="blank" href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMzYwNzI4OS9lcGlzb2Rlcy9mZWVk">**Google Podcast**</a>, <a target="blank" href="https://castbox.fm/channel/Fotoradio-un-podcast-sulle-fotografie-id2203635?country=it">**Castbox**</a> e <a target="blank" href="https://soundcloud.com/user-153455998">**Soundcloud**</a>.
+Oltre che sul sito di <a href="https://links.fotoradio.info/spreaker">**Spreaker**</a>, puoi ascoltare le Fotonews anche su
+<a target="blank" href="https://links.fotoradio.info/apple">**Apple iTunes**</a>, <a target="blank" href="https://links.fotoradio.info/spotify">**Spotify**</a>, <a target="blank" href="https://links.fotoradio.info/google">**Google Podcast**</a> e su molte altre piattaforme elencate <a href="/static_page/ascolta/">qui</a>.
 
 Se vuoi lasciare un commento (grazie!), vai nella sezione <a href="/contact/">Contatti</a>
 
 - - -
 
-### Youtube
+### Youtube e newsletter
 
-Una rassegna delle foto di cui parliamo nel podcast sono anche su Youtube a questo <a target="blank" href="https://youtu.be/jNa35hAqPNc">link</a>
+Una rassegna delle foto di cui parliamo nel podcast sono anche su Youtube
+
+{{< yt gwBbDf5jbBE >}}
+
+Gli scatti e i testi sono anche raccolti in una newsletter su **Substack** (<a target="blank" href="https://fotoradio.substack.com/">link</a>)
 
 <br>
+
+## Puntata #10 - Visa pour l'image
 - - -
 
-## Visa pour l'image
-
-Si tiene ormai da 32 anni a Perpignan _Visa pour l'image_ una rassegna di mostre di fotogiornalismo. Nel podcast facciamo un giro intorno al mondo ripercorrendo il _tour du mond_ in 80 giorni di Jules Verne.
+Si tiene ormai da 32 anni a Perpignan _Visa pour l'image_ una rassegna di mostre di fotogiornalismo. Nel podcast facciamo un giro intorno al mondo ripercorrendo il _tour du monde_ in 80 giorni di Jules Verne.
 
 Cominciamo.
 
@@ -42,13 +47,13 @@ Cominciamo.
 - - -
 #### Sicilia, Priolo
 
-A Augusta-Priolo, in Sicilia, sorge uno dei più grandi complessi petrolchimici d’Europa che fornisce 1/3 del fabbisogno di petrolio dell’Italia. E, ovviamente, in uno degli angoli più belli delle coste italiane, cresce il degrado, l’inquinamento e i tumori che colpiscono la popolazione.
+A Augusta-Priolo, in Sicilia, sorge uno dei più grandi complessi petrolchimici d’Europa che fornisce 1/3 del fabbisogno di petrolio dell’Italia. E ovviamente, in uno degli angoli più belli delle coste italiane, cresce il degrado, l’inquinamento e i tumori che colpiscono la popolazione.
 
 Ce lo racconta **Elena Chernyshova**, classe 1981, fotografa nata a Mosca e con base in Francia, vincitrice del WPP nel 2014.
 
 * Sito under construction al momento https://elena-chernyshova.com/
 
-{{< figure src="/img/NEWS/202009/chernyshova.jpg" caption="⬆︎ foto di: Elena Chernyshova</br> ">}}
+{{< figure src="/img/NEWS/2020/10_visa/chernyshova.jpg" caption="⬆︎ foto di: Elena Chernyshova</br> ">}}
 
 
 ### Africa
@@ -58,7 +63,7 @@ Ce lo racconta **Elena Chernyshova**, classe 1981, fotografa nata a Mosca e con 
 
 * https://www.instagram.com/yasuyoshi_chiba/
 
-{{< figure src="/img/NEWS/202009/chiba.jpg" caption="⬆︎ Sud Nigeria, foto di: Yasuyoshi Chiba</br> ">}}
+{{< figure src="/img/NEWS/2020/10_visa/chiba.jpg" caption="⬆︎ Sud Nigeria, foto di: Yasuyoshi Chiba</br> ">}}
 
 
 ### Asia
@@ -68,7 +73,7 @@ Ce lo racconta **Elena Chernyshova**, classe 1981, fotografa nata a Mosca e con 
 Raqqa, in Siria, è stata la capitale dell’Isis. Adesso è una città distrutta, popolata solo di donne e bambini, che gli uomini o sono morti o sono in galera.
 **Tim Dirven** inviato dal quotidiano belga _De Morgen_ è nato nel 1968 e collabora da lungo tempo con il giornale.
 
-{{< figure src="/img/NEWS/202009/dirven.jpg" caption="⬆︎ Raqqa, foto di: Tim Dirven</br> ">}}
+{{< figure src="/img/NEWS/2020/10_visa/dirven.jpg" caption="⬆︎ Raqqa, foto di: Tim Dirven</br> ">}}
 
 
 #### Nagorno-Karabakh
@@ -79,7 +84,7 @@ Raqqa, in Siria, è stata la capitale dell’Isis. Adesso è una città distrutt
 
 Babajanyan ci porta alcuni ritratti di famiglia.
 
-{{< figure src="/img/NEWS/202009/babajanyan.jpg" caption="⬆︎ Raqqa, foto di: Tim Dirven</br> ">}}
+{{< figure src="/img/NEWS/2020/10_visa/babajanyan.jpg" caption="⬆︎ Raqqa, foto di: Tim Dirven</br> ">}}
 
 
 
@@ -90,7 +95,7 @@ Ce ne parla **Sarah Caron**, fotografa francese nata in Provenza nel 1972, basat
 
 * https://www.instagram.com/sarah_caron_photographer/
 
-{{< figure src="/img/NEWS/202009/caron.jpg" caption="⬆︎ Lago Manchar, Pakistan. Foto di: Sarah Caron</br> ">}}
+{{< figure src="/img/NEWS/2020/10_visa/caron.jpg" caption="⬆︎ Lago Manchar, Pakistan. Foto di: Sarah Caron</br> ">}}
 
 
 #### India, Mumbay e Uttar Pradesh
@@ -99,9 +104,9 @@ Ce ne parla **Sarah Caron**, fotografa francese nata in Provenza nel 1972, basat
 * https://bryandenton.com/
 * https://www.nytimes.com/interactive/2019/11/25/climate/india-monsoon-drought.html
 
-{{< figure src="/img/NEWS/202009/denton1.jpg" caption="⬆︎ Mumbay è una megalopoli indiana e la megalopoli è attraversata dal fiume Mithi che ogni tanto esonda. Foto di: Bryan Denton</br> ">}}
+{{< figure src="/img/NEWS/2020/10_visa/denton1.jpg" caption="⬆︎ Mumbay è una megalopoli indiana e la megalopoli è attraversata dal fiume Mithi che ogni tanto esonda. Foto di: Bryan Denton</br> ">}}
 
-{{< figure src="/img/NEWS/202009/denton2.jpg" caption="⬆︎ Nell'Uttar Pradesh invece il terreno è ormai completamente arido. Foto di: Bryan Denton</br> ">}}
+{{< figure src="/img/NEWS/2020/10_visa/denton2.jpg" caption="⬆︎ Nell'Uttar Pradesh invece il terreno è ormai completamente arido. Foto di: Bryan Denton</br> ">}}
 
 #### India, Maharashtra
 Dal Maharashtra e dalla sue piantagioni di canna da zucchero, arriva  **Chloe Sharrock**, fotografa francese nata nel 1992, concentrata sul medio oriente e sui diritti delle donne, dice il suo sito internet,
@@ -111,7 +116,7 @@ E proprio di diritti delle donne parla _Sugar Girl_ che racconta di isterectomie
 * https://www.sharrockchloe.com/sugar-girl
 * https://www.visapourlimage.com/festival/expositions/sugar-girls
 
-{{< figure src="/img/NEWS/202009/sharrock.jpg" caption="⬆︎ Una donna cerca di creare un fascio di canne. Foto di: Chloe Sharrock</br> ">}}
+{{< figure src="/img/NEWS/2020/10_visa/sharrock.jpg" caption="⬆︎ Una donna cerca di creare un fascio di canne. Foto di: Chloe Sharrock</br> ">}}
 
 
 #### India, Delhi
@@ -119,14 +124,14 @@ E proprio di diritti delle donne parla _Sugar Girl_ che racconta di isterectomie
 
 * http://www.jameswhitlowdelano.com/
 
-{{< figure src="/img/NEWS/202009/delano.jpg" caption="⬆︎ La plastica ormai è parte integrante del paesaggio. Foto di: James Whitlow Delano</br> ">}}
+{{< figure src="/img/NEWS/2020/10_visa/delano.jpg" caption="⬆︎ La plastica ormai è parte integrante del paesaggio. Foto di: James Whitlow Delano</br> ">}}
 
 #### Cina, Hong Kong
 Molte fotografie dedicate alle manifestazioni di Hong Kong di questi mesi. Abbiamo scelto il lavoro di **Anthony Wallace**, fotografo della AFP, classe 1979, che ci mostra sia le violenze della polizia che dei manifestanti.
 
 * https://www.instagram.com/antwallace/
 
-{{< figure src="/img/NEWS/202009/wallace.jpg" caption="⬆︎ Hong Kong. Foto di: Anthony Wallace</br> ">}}
+{{< figure src="/img/NEWS/2020/10_visa/wallace.jpg" caption="⬆︎ Hong Kong. Foto di: Anthony Wallace</br> ">}}
 
 
 #### Cina, Wuhan
@@ -136,7 +141,7 @@ Questi paesaggi ce li racconta **Roman Pilipey**, fotogiornalista ucraino attual
 * https://romanpilipey.com/
 * https://www.instagram.com/romanpilipey/
 
-{{< figure src="/img/NEWS/202009/pilipey.jpg" caption="⬆︎ Foto di: Roman Pilipey</br> ">}}
+{{< figure src="/img/NEWS/2020/10_visa/pilipey.jpg" caption="⬆︎ Foto di: Roman Pilipey</br> ">}}
 
 
 ### America
@@ -148,7 +153,7 @@ e che ci vuole ricordare uno degli effetti del coronavirus: il distanziamento so
 
 * https://edelsonphotography.com/
 
-{{< figure src="/img/NEWS/202009/edelson.jpg" caption="⬆︎ Washington Square Park, San Francisco. Foto di: Josh Edelson</br> ">}}
+{{< figure src="/img/NEWS/2020/10_visa/edelson.jpg" caption="⬆︎ Washington Square Park, San Francisco. Foto di: Josh Edelson</br> ">}}
 
 
 #### Stati Uniti, Los Angeles
@@ -158,7 +163,7 @@ Un altro evento, oltre il covid, ha attraversato l’America in questi mesi è i
 
 * https://www.instagram.com/alschaben/
 
-{{< figure src="/img/NEWS/202009/schaben.jpg" caption="⬆︎ Manifestazione tra Manhattan Beach e XXX. Foto di: Allan Schaben</br> ">}}
+{{< figure src="/img/NEWS/2020/10_visa/schaben.jpg" caption="⬆︎ Manifestazione tra Manhattan Beach e XXX. Foto di: Allan Schaben</br> ">}}
 
 
 #### Canada, Alberta
@@ -172,7 +177,7 @@ Un altro evento, oltre il covid, ha attraversato l’America in questi mesi è i
 Il reportage di Willms introduce il termine di _razzismo ambientale_: i nativi d'America siano stati chiusi in riserve in prossimità delle quali si sono sviluppati enormi complessi industriali altamente inquinanti.
 Il lavoro di Willms merita un approfondimento ben oltre il podcast. Guardate il suo sito personale.
 
-{{< figure src="/img/NEWS/202009/willms.jpg" caption="⬆︎ Impianti petrolchimici in prossimità di Fort McMurray. Foto di: Ian Willms</br> ">}}
+{{< figure src="/img/NEWS/2020/10_visa/willms.jpg" caption="⬆︎ Impianti petrolchimici in prossimità di Fort McMurray. Foto di: Ian Willms</br> ">}}
 
 
 #### Messico, stato di Guerrero
@@ -182,7 +187,7 @@ Il lavoro di Willms merita un approfondimento ben oltre il podcast. Guardate il 
 * https://www.alfredobosco.com/
 * https://www.alfredobosco.com/forgotten_guerrero-p18592
 
-{{< figure src="/img/NEWS/202009/bosco.jpg" caption="⬆︎ A Rincon de Chautla gli abitanti si organizzano per rispondere ai raid dei cartelli. Foto di: Alfredo Bosco</br> ">}}
+{{< figure src="/img/NEWS/2020/10_visa/bosco.jpg" caption="⬆︎ A Rincon de Chautla gli abitanti si organizzano per rispondere ai raid dei cartelli. Foto di: Alfredo Bosco</br> ">}}
 
 #### Cuba, l'Avana
 Altro reportage super interessante arriva da Cuba ad opera di **Sanne Derks**, fotogiornalista e antropologa olandese con diversi progetti in America Latina.
@@ -190,9 +195,11 @@ Altro reportage super interessante arriva da Cuba ad opera di **Sanne Derks**, f
 * http://www.sannederks.com/
 * http://www.sannederks.com/manifiesto-del-agua
 
+Il New York Times ha pubblicato recentemente il reportage di Derks qui: https://www.nytimes.com/2021/02/15/travel/cuba-clean-water.html
+
 L'acqua corrente è un problema per Cuba ma non sembra esserlo per le strutture turistiche.
 
-{{< figure src="/img/NEWS/202009/derks.jpg" caption="⬆︎ Piscina di un albergo in centro a L'Avana e taniche d'acqua sui tetti delle case. Foto di: Sanne Derks</br> ">}}
+{{< figure src="/img/NEWS/2020/10_visa/derks.jpg" caption="⬆︎ Piscina di un albergo in centro a L'Avana e taniche d'acqua sui tetti delle case. Foto di: Sanne Derks</br> ">}}
 
 
 #### Stati Uniti, New York
@@ -201,7 +208,7 @@ L'acqua corrente è un problema per Cuba ma non sembra esserlo per le strutture 
 
 * http://www.peterturnley.com/
 
-{{< figure src="/img/NEWS/202009/turnley.jpg" caption="⬆︎ Shannone (28 anni). Foto di: Peter Turnley</br> ">}}
+{{< figure src="/img/NEWS/2020/10_visa/turnley.jpg" caption="⬆︎ Shannone (28 anni). Foto di: Peter Turnley</br> ">}}
 
 </br>
 
@@ -246,7 +253,10 @@ Le voci fuori campo sono tratte dal trailer del documentario di National Geograp
 - - -
 ## Errata corrige
 
-Nel podcast, dico che Raqqa è in Iraq mentre invece è in Siria.
+
+nb - questo podcast è stato registrato appena rientrato da Perpignan a settembre del 2020. Ci sono quindi alcune inesattezze (tipo che in Nagorno-Karabakh è tornata la pace...)
+
+Inoltre, nel podcast dico che Raqqa è in Iraq mentre invece è in Siria.
 
 </br>
 
