@@ -84,7 +84,7 @@ Raqqa, in Siria, è stata la capitale dell’Isis. Adesso è una città distrutt
 
 Babajanyan ci porta alcuni ritratti di famiglia.
 
-{{< figure src="/img/NEWS/2020/10_visa/babajanyan.jpg" caption="⬆︎ Raqqa, foto di: Tim Dirven</br> ">}}
+{{< figure src="/img/NEWS/2020/10_visa/babajanyan.jpg" caption="⬆︎ Nagorno-Karabakh, 2017, foto di: Anush Babajanyan</br> ">}}
 
 
 
