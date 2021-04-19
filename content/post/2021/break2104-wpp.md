@@ -29,14 +29,13 @@ Oltre che sul sito di [**Spreaker**](https://www.spreaker.com/user/11400220/tour
 
 Se vuoi lasciare un commento (grazie!), vai nella sezione [Contatti](/contact/)
 
-<!--
+
 - - -
 ## Youtube
 
 Una rassegna delle foto di cui parliamo nel podcast sono anche su Youtube (domani)
 
-{{< youtube gwBbDf5jbBE >}}
--->
+{{< youtube OC8zW5G6Das >}}
 
 
 - - -
