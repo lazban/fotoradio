@@ -53,9 +53,7 @@ Gli scatti e i testi sono anche raccolti in una newsletter su [**Substack**](htt
 
 ## Gabriele Galimberti, Ameriguns
 
-**Peter Turnley**, classe 1955, fotogiornalista americano che vive fra New York e Parigi, si è trovato bloccato nella grande mela nel periodo di lockdown dovuto al corona virus e ha deciso di tenere un _diario visivo_.
-
-* [sito Turnley](http://www.peterturnley.com/)
+Ameriguns parla del possesso delle armi detenute da privati cittadini americani.
 
 {{< figure src="/img/break/break2104/2104_galimberti.png" align="center" caption="⬆︎ ritaglio da una foto di: Gabriele Galimberti</br> ">}}
 
@@ -64,9 +62,7 @@ Gli scatti e i testi sono anche raccolti in una newsletter su [**Substack**](htt
 
 ## Antonio Faccilongo, Habibi
 
-**Peter Turnley**, classe 1955, fotogiornalista americano che vive fra New York e Parigi, si è trovato bloccato nella grande mela nel periodo di lockdown dovuto al corona virus e ha deciso di tenere un _diario visivo_.
-
-* [sito Turnley](http://www.peterturnley.com/)
+Habibi, _amore mio_ in arabo, parla dei detenuti palestinesi nelle carceri israeliane e degli affetti che hanno lasciato a casa.
 
 {{< figure src="/img/break/break2104/2104_faccilongo.png" align="center" caption="⬆︎ ritaglio da una foto di: Antonio Faccilongo</br> ">}}
 
@@ -75,9 +71,7 @@ Gli scatti e i testi sono anche raccolti in una newsletter su [**Substack**](htt
 
 ## Lorenzo Tugnoli, Port explosion in Beirut
 
-**Peter Turnley**, classe 1955, fotogiornalista americano che vive fra New York e Parigi, si è trovato bloccato nella grande mela nel periodo di lockdown dovuto al corona virus e ha deciso di tenere un _diario visivo_.
-
-* [sito Turnley](http://www.peterturnley.com/)
+Nell'agosto del 2020 un'esplosione ha devastato una parte di Beirut. 
 
 {{< figure src="/img/break/break2104/2104_tugnoli.png" align="center" caption="⬆︎ Ritaglio da una foto di: Lorenzo Tugnoli</br> ">}}
 
