@@ -39,12 +39,10 @@ Una rassegna delle foto di cui parliamo nel podcast sono anche su Youtube (doman
 -->
 
 
-<!--
 - - -
 ## Newsletter
 
-Gli scatti e i testi sono anche raccolti in una newsletter su [**Substack**](https://fotoradio.substack.com/)
--->
+Gli scatti e i testi sono anche raccolti in una newsletter su [**Substack**](https://fotoradio.substack.com/p/fotobreak-3-italiani-premiati-al)
 
 <br />
 
