@@ -71,7 +71,7 @@ Habibi, _amore mio_ in arabo, parla dei detenuti palestinesi nelle carceri israe
 
 ## Lorenzo Tugnoli, Port explosion in Beirut
 
-Nell'agosto del 2020 un'esplosione ha devastato una parte di Beirut. 
+Nell'agosto del 2020 un'esplosione ha devastato una parte di Beirut.
 
 {{< figure src="/img/break/break2104/2104_tugnoli.png" align="center" caption="⬆︎ Ritaglio da una foto di: Lorenzo Tugnoli</br> ">}}
 
@@ -134,10 +134,15 @@ Inoltre, nel podcast dico che Raqqa è in Iraq mentre invece è in Siria.
 
 LINK PER APPROFONDIMENTI:
 - La serie di Galimberti, [Ameriguns](https://www.worldpressphoto.org/collection/photo/2021/41406/1/Gabriele-Galimberti)
+
 - Sparatoria di Indianapolis del 15 aprile 2021 sul [New York Times](https://www.nytimes.com/live/2021/04/16/us/indianapolis-fedex-shooting)
+
 - La serie di Faccilongo, [Habibi](https://www.worldpressphoto.org/collection/photo/2021/41438/1/Antonio-Faccilongo-SOYN)
+
 - La serie di Tugnoli, [Port Explosion in Beirut](https://www.worldpressphoto.org/collection/photo/2021/41394/1/Lorenzo-Tugnoli)
+
 - Un articolo sull’esplosione di Beirut su [Internazionale](https://www.internazionale.it/notizie/2020/08/05/beirut-esplosione-libano)
+
 - Tutti i premi del [World Press Photo 2021](https://www.worldpressphoto.org/news/2021/contests-category-winners)
 
 - - -
